@@ -838,7 +838,8 @@
       "chicken": "2024-12-20 15:46:36 +0000",
       "beef": "2024-12-20 15:43:07 +0000",
       "mutton": "2024-12-20 15:46:39 +0000",
-      "bread": "2024-12-20 16:07:48 +0000"
+      "bread": "2024-12-20 16:07:48 +0000",
+      "cooked_chicken": "2024-12-20 22:16:01 +0000"
     },
     "done": false
   },
@@ -1592,21 +1593,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "travelersbackpack:recipes/misc/standard": {
     "criteria": {
-      "has_sand": "2024-12-20 16:29:58 +0000"
+      "has_chest": "2024-12-20 16:16:46 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/coal": {
+  "travelersbackpack:recipes/misc/blank_upgrade": {
     "criteria": {
-      "has_coal": "2024-12-20 16:31:46 +0000"
+      "has_chest": "2024-12-20 16:16:46 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+  "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
-      "has_sand": "2024-12-20 16:29:58 +0000"
+      "has_log": "2024-12-20 16:16:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_lightning": {
+    "criteria": {
+      "has_item": "2024-12-20 16:17:30 +0000"
     },
     "done": true
   },
@@ -1616,9 +1623,51 @@
     },
     "done": true
   },
-  "tombstone:adventure/neighborhood_brawl": {
+  "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
-      "coded_trigger": "2024-12-20 16:35:48 +0000"
+      "has_flint": "2024-12-20 16:22:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-20 16:22:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-20 16:22:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-20 16:22:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-20 16:22:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2024-12-20 16:26:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-20 16:29:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-20 16:29:58 +0000"
     },
     "done": true
   },
@@ -1627,12 +1676,6 @@
       "has_sand": "2024-12-20 16:29:58 +0000"
     },
     "done": true
-  },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:nether_wastes": "2024-12-20 16:33:51 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
@@ -1658,21 +1701,9 @@
     },
     "done": true
   },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2024-12-20 16:33:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-20 16:29:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/spyglass": {
-    "criteria": {
-      "has_amethyst_shard": "2024-12-20 16:22:31 +0000"
     },
     "done": true
   },
@@ -1688,30 +1719,6 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/standard": {
-    "criteria": {
-      "has_chest": "2024-12-20 16:16:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
-    "criteria": {
-      "has_amethyst_shard": "2024-12-20 16:22:31 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonbone_sword_lightning": {
-    "criteria": {
-      "has_item": "2024-12-20 16:17:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/tinted_glass": {
-    "criteria": {
-      "has_amethyst_shard": "2024-12-20 16:22:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-20 16:29:58 +0000"
@@ -1724,30 +1731,6 @@
     },
     "done": true
   },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2024-12-20 16:33:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/flint_and_steel": {
-    "criteria": {
-      "has_flint": "2024-12-20 16:22:19 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/blank_upgrade": {
-    "criteria": {
-      "has_chest": "2024-12-20 16:16:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2024-12-20 16:31:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-20 16:29:58 +0000"
@@ -1757,12 +1740,6 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2024-12-20 16:29:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/amethyst_block": {
-    "criteria": {
-      "has_amethyst_shard": "2024-12-20 16:22:31 +0000"
     },
     "done": true
   },
@@ -1784,27 +1761,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/enchanting_table": {
-    "criteria": {
-      "has_obsidian": "2024-12-20 16:31:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-20 16:29:58 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/ashes_and_bones": {
+  "travelersbackpack:recipes/misc/coal": {
     "criteria": {
-      "coded_trigger": "2024-12-20 16:26:59 +0000"
+      "has_coal": "2024-12-20 16:31:46 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/acacia_planks": {
+  "minecraft:story/form_obsidian": {
     "criteria": {
-      "has_log": "2024-12-20 16:16:55 +0000"
+      "obsidian": "2024-12-20 16:31:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-20 16:31:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-20 16:33:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-20 16:33:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2024-12-20 16:33:51 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2024-12-20 16:35:48 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mysterious_gift": {
+    "criteria": {
+      "coded_trigger": "2024-12-20 22:14:58 +0000"
     },
     "done": true
   },

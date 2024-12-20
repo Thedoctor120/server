@@ -1,85 +1,85 @@
-[20Dec2024 15:21:31.343] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
-[20Dec2024 15:21:31.348] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.5 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
-[20Dec2024 15:21:37.593] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[20Dec2024 15:21:37.605] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
-[20Dec2024 15:21:37.606] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/workspaces/server/servidor_minecraft/mods/OptiFine-1.20.1_HD_U_I6_pre6.jar%23130!/
-[20Dec2024 15:21:37.612] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: /workspaces/server/servidor_minecraft/mods/OptiFine-1.20.1_HD_U_I6_pre6.jar
-[20Dec2024 15:21:37.615] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
-[20Dec2024 15:21:37.770] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/server/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[20Dec2024 15:21:37.782] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
-[20Dec2024 15:21:38.594] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[20Dec2024 15:21:38.597] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[20Dec2024 15:21:38.598] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[20Dec2024 15:21:38.600] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[20Dec2024 15:21:39.377] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[20Dec2024 15:21:39.378] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 4 dependencies adding them to mods collection
-[20Dec2024 15:21:40.371] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
-[20Dec2024 15:21:40.380] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 412
-[20Dec2024 15:21:41.687] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
-[20Dec2024 15:21:42.710] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[20Dec2024 15:21:42.777] [main/ERROR] [mixin/]: Mixin config furniture-common.mixins.json does not specify "minVersion" property
-[20Dec2024 15:21:42.799] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[20Dec2024 15:21:43.268] [main/WARN] [mixin/]: Error loading class: tfar/davespotioneering/blockentity/AdvancedBrewingStandBlockEntity (java.lang.ClassNotFoundException: tfar.davespotioneering.blockentity.AdvancedBrewingStandBlockEntity)
-[20Dec2024 15:21:43.269] [main/WARN] [mixin/]: @Mixin target tfar.davespotioneering.blockentity.AdvancedBrewingStandBlockEntity was not found itemproductionlib.mixins.json:davespotioneering/AdvancedBrewingStandBlockEntityMixin
-[20Dec2024 15:21:43.270] [main/WARN] [mixin/]: Error loading class: vectorwing/farmersdelight/common/block/entity/CookingPotBlockEntity (java.lang.ClassNotFoundException: vectorwing.farmersdelight.common.block.entity.CookingPotBlockEntity)
-[20Dec2024 15:21:43.270] [main/WARN] [mixin/]: @Mixin target vectorwing.farmersdelight.common.block.entity.CookingPotBlockEntity was not found itemproductionlib.mixins.json:farmersdelight/CookingPotBlockEntityMixin
-[20Dec2024 15:21:43.271] [main/WARN] [mixin/]: Error loading class: vectorwing/farmersdelight/common/block/entity/StoveBlockEntity (java.lang.ClassNotFoundException: vectorwing.farmersdelight.common.block.entity.StoveBlockEntity)
-[20Dec2024 15:21:43.271] [main/WARN] [mixin/]: @Mixin target vectorwing.farmersdelight.common.block.entity.StoveBlockEntity was not found itemproductionlib.mixins.json:farmersdelight/StoveBlockEntityMixin
-[20Dec2024 15:21:43.272] [main/WARN] [mixin/]: Error loading class: fuzs/visualworkbench/world/inventory/ModCraftingMenu (java.lang.ClassNotFoundException: fuzs.visualworkbench.world.inventory.ModCraftingMenu)
-[20Dec2024 15:21:43.272] [main/WARN] [mixin/]: @Mixin target fuzs.visualworkbench.world.inventory.ModCraftingMenu was not found itemproductionlib.mixins.json:visualworkbench/ModCraftingMenuMixin
-[20Dec2024 15:21:43.443] [main/WARN] [mixin/]: Error loading class: fuzs/easymagic/world/inventory/ModEnchantmentMenu (java.lang.ClassNotFoundException: fuzs.easymagic.world.inventory.ModEnchantmentMenu)
-[20Dec2024 15:21:43.443] [main/WARN] [mixin/]: @Mixin target fuzs.easymagic.world.inventory.ModEnchantmentMenu was not found skilltree.mixins.json:easymagic/ModEnchantmentMenuMixin
-[20Dec2024 15:21:43.445] [main/WARN] [mixin/]: Error loading class: dev/shadowsoffire/apotheosis/ench/table/ApothEnchantmentMenu (java.lang.ClassNotFoundException: dev.shadowsoffire.apotheosis.ench.table.ApothEnchantmentMenu)
-[20Dec2024 15:21:43.446] [main/WARN] [mixin/]: @Mixin target dev.shadowsoffire.apotheosis.ench.table.ApothEnchantmentMenu was not found skilltree.mixins.json:apotheosis/ApothEnchantContainerMixin
-[20Dec2024 15:21:43.447] [main/WARN] [mixin/]: Error loading class: dev/shadowsoffire/apotheosis/adventure/socket/SocketingRecipe (java.lang.ClassNotFoundException: dev.shadowsoffire.apotheosis.adventure.socket.SocketingRecipe)
-[20Dec2024 15:21:43.447] [main/WARN] [mixin/]: @Mixin target dev.shadowsoffire.apotheosis.adventure.socket.SocketingRecipe was not found skilltree.mixins.json:apotheosis/SocketingRecipeMixin
-[20Dec2024 15:21:43.448] [main/WARN] [mixin/]: Error loading class: dev/shadowsoffire/apotheosis/adventure/socket/gem/bonus/AttributeBonus (java.lang.ClassNotFoundException: dev.shadowsoffire.apotheosis.adventure.socket.gem.bonus.AttributeBonus)
-[20Dec2024 15:21:43.450] [main/WARN] [mixin/]: @Mixin target dev.shadowsoffire.apotheosis.adventure.socket.gem.bonus.AttributeBonus was not found skilltree.mixins.json:apotheosis/AttributeBonusMixin
-[20Dec2024 15:21:43.452] [main/WARN] [mixin/]: Error loading class: dev/shadowsoffire/apotheosis/adventure/socket/gem/bonus/EnchantmentBonus (java.lang.ClassNotFoundException: dev.shadowsoffire.apotheosis.adventure.socket.gem.bonus.EnchantmentBonus)
-[20Dec2024 15:21:43.453] [main/WARN] [mixin/]: @Mixin target dev.shadowsoffire.apotheosis.adventure.socket.gem.bonus.EnchantmentBonus was not found skilltree.mixins.json:apotheosis/EnchantmentBonusMixin
-[20Dec2024 15:21:44.108] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
-[20Dec2024 15:21:44.109] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
-[20Dec2024 15:21:44.109] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found relics.mixins.json:ScreenMixin
-[20Dec2024 15:21:44.494] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.2).
-[20Dec2024 15:21:55.346] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[20Dec2024 15:21:55.532] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[20Dec2024 15:21:55.532] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[20Dec2024 15:21:58.947] [modloading-worker-0/INFO] [studio.lunareclipse.watching.Init/]: From The Fog Loaded Successfully!
-[20Dec2024 15:21:59.662] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [attributefix] Starting version check at https://updates.blamejared.com/get?n=attributefix&gv=1.20.1
-[20Dec2024 15:22:00.164] [main/INFO] [journeymap/]: Initializing Packet Registries
-[20Dec2024 15:22:00.220] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
-[20Dec2024 15:22:00.221] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
-[20Dec2024 15:22:00.222] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
-[20Dec2024 15:22:00.224] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
-[20Dec2024 15:22:00.230] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[20Dec2024 15:22:00.232] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[20Dec2024 15:22:00.232] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
-[20Dec2024 15:22:00.232] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
-[20Dec2024 15:22:00.233] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
-[20Dec2024 15:22:00.233] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[20Dec2024 15:22:00.233] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[20Dec2024 15:22:00.284] [modloading-worker-0/INFO] [AttributeFix/]: Loaded values for 24 compatible attributes.
-[20Dec2024 15:22:00.292] [modloading-worker-0/INFO] [AttributeFix/]: Loaded 24 values from config.
-[20Dec2024 15:22:00.302] [modloading-worker-0/INFO] [AttributeFix/]: Saving config file. 24 entries.
-[20Dec2024 15:22:00.307] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [attributefix] Found status: BETA Current: 21.0.4 Target: 21.0.4
-[20Dec2024 15:22:00.307] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[20Dec2024 15:22:00.308] [modloading-worker-0/INFO] [AttributeFix/]: Applying changes for 24 attributes.
-[20Dec2024 15:22:00.337] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[20Dec2024 15:22:00.357] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[20Dec2024 15:22:00.361] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[20Dec2024 15:22:00.362] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
-[20Dec2024 15:22:00.363] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
-[20Dec2024 15:22:00.592] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: OUTDATED Current: 5.10.2 Target: 5.10.3
-[20Dec2024 15:22:00.594] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[20Dec2024 15:22:00.634] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: OUTDATED Current: 9.1.14 Target: 9.1.16
-[20Dec2024 15:22:00.635] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[20Dec2024 15:22:00.670] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.8.6 Target: null
-[20Dec2024 15:22:00.671] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[20Dec2024 15:22:00.907] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.12
-[20Dec2024 15:22:03.760] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[20Dec2024 15:22:06.039] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23161!/assets/.mcassetsroot' uses unexpected schema
-[20Dec2024 15:22:06.040] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23161!/data/.mcassetsroot' uses unexpected schema
-[20Dec2024 15:22:08.438] [Worker-Main-3/ERROR] [net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener/]: Couldn't parse data file redeco:blocks/oak_sword_mount from redeco:loot_tables/blocks/oak_sword_mount.json
+[20Dec2024 22:13:39.088] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[20Dec2024 22:13:39.092] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.5 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[20Dec2024 22:13:40.331] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[20Dec2024 22:13:40.342] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
+[20Dec2024 22:13:40.343] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/workspaces/server/servidor_minecraft/mods/OptiFine-1.20.1_HD_U_I6_pre6.jar%23130!/
+[20Dec2024 22:13:40.350] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: /workspaces/server/servidor_minecraft/mods/OptiFine-1.20.1_HD_U_I6_pre6.jar
+[20Dec2024 22:13:40.352] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
+[20Dec2024 22:13:40.417] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/server/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[20Dec2024 22:13:40.427] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
+[20Dec2024 22:13:40.707] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[20Dec2024 22:13:40.710] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[20Dec2024 22:13:40.711] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[20Dec2024 22:13:40.712] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[20Dec2024 22:13:40.912] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[20Dec2024 22:13:40.913] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 4 dependencies adding them to mods collection
+[20Dec2024 22:13:41.488] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
+[20Dec2024 22:13:41.498] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 412
+[20Dec2024 22:13:42.175] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
+[20Dec2024 22:13:43.143] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[20Dec2024 22:13:43.220] [main/ERROR] [mixin/]: Mixin config furniture-common.mixins.json does not specify "minVersion" property
+[20Dec2024 22:13:43.245] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[20Dec2024 22:13:44.019] [main/WARN] [mixin/]: Error loading class: tfar/davespotioneering/blockentity/AdvancedBrewingStandBlockEntity (java.lang.ClassNotFoundException: tfar.davespotioneering.blockentity.AdvancedBrewingStandBlockEntity)
+[20Dec2024 22:13:44.019] [main/WARN] [mixin/]: @Mixin target tfar.davespotioneering.blockentity.AdvancedBrewingStandBlockEntity was not found itemproductionlib.mixins.json:davespotioneering/AdvancedBrewingStandBlockEntityMixin
+[20Dec2024 22:13:44.021] [main/WARN] [mixin/]: Error loading class: vectorwing/farmersdelight/common/block/entity/CookingPotBlockEntity (java.lang.ClassNotFoundException: vectorwing.farmersdelight.common.block.entity.CookingPotBlockEntity)
+[20Dec2024 22:13:44.021] [main/WARN] [mixin/]: @Mixin target vectorwing.farmersdelight.common.block.entity.CookingPotBlockEntity was not found itemproductionlib.mixins.json:farmersdelight/CookingPotBlockEntityMixin
+[20Dec2024 22:13:44.024] [main/WARN] [mixin/]: Error loading class: vectorwing/farmersdelight/common/block/entity/StoveBlockEntity (java.lang.ClassNotFoundException: vectorwing.farmersdelight.common.block.entity.StoveBlockEntity)
+[20Dec2024 22:13:44.024] [main/WARN] [mixin/]: @Mixin target vectorwing.farmersdelight.common.block.entity.StoveBlockEntity was not found itemproductionlib.mixins.json:farmersdelight/StoveBlockEntityMixin
+[20Dec2024 22:13:44.025] [main/WARN] [mixin/]: Error loading class: fuzs/visualworkbench/world/inventory/ModCraftingMenu (java.lang.ClassNotFoundException: fuzs.visualworkbench.world.inventory.ModCraftingMenu)
+[20Dec2024 22:13:44.025] [main/WARN] [mixin/]: @Mixin target fuzs.visualworkbench.world.inventory.ModCraftingMenu was not found itemproductionlib.mixins.json:visualworkbench/ModCraftingMenuMixin
+[20Dec2024 22:13:44.175] [main/WARN] [mixin/]: Error loading class: fuzs/easymagic/world/inventory/ModEnchantmentMenu (java.lang.ClassNotFoundException: fuzs.easymagic.world.inventory.ModEnchantmentMenu)
+[20Dec2024 22:13:44.176] [main/WARN] [mixin/]: @Mixin target fuzs.easymagic.world.inventory.ModEnchantmentMenu was not found skilltree.mixins.json:easymagic/ModEnchantmentMenuMixin
+[20Dec2024 22:13:44.177] [main/WARN] [mixin/]: Error loading class: dev/shadowsoffire/apotheosis/ench/table/ApothEnchantmentMenu (java.lang.ClassNotFoundException: dev.shadowsoffire.apotheosis.ench.table.ApothEnchantmentMenu)
+[20Dec2024 22:13:44.177] [main/WARN] [mixin/]: @Mixin target dev.shadowsoffire.apotheosis.ench.table.ApothEnchantmentMenu was not found skilltree.mixins.json:apotheosis/ApothEnchantContainerMixin
+[20Dec2024 22:13:44.178] [main/WARN] [mixin/]: Error loading class: dev/shadowsoffire/apotheosis/adventure/socket/SocketingRecipe (java.lang.ClassNotFoundException: dev.shadowsoffire.apotheosis.adventure.socket.SocketingRecipe)
+[20Dec2024 22:13:44.178] [main/WARN] [mixin/]: @Mixin target dev.shadowsoffire.apotheosis.adventure.socket.SocketingRecipe was not found skilltree.mixins.json:apotheosis/SocketingRecipeMixin
+[20Dec2024 22:13:44.179] [main/WARN] [mixin/]: Error loading class: dev/shadowsoffire/apotheosis/adventure/socket/gem/bonus/AttributeBonus (java.lang.ClassNotFoundException: dev.shadowsoffire.apotheosis.adventure.socket.gem.bonus.AttributeBonus)
+[20Dec2024 22:13:44.180] [main/WARN] [mixin/]: @Mixin target dev.shadowsoffire.apotheosis.adventure.socket.gem.bonus.AttributeBonus was not found skilltree.mixins.json:apotheosis/AttributeBonusMixin
+[20Dec2024 22:13:44.181] [main/WARN] [mixin/]: Error loading class: dev/shadowsoffire/apotheosis/adventure/socket/gem/bonus/EnchantmentBonus (java.lang.ClassNotFoundException: dev.shadowsoffire.apotheosis.adventure.socket.gem.bonus.EnchantmentBonus)
+[20Dec2024 22:13:44.182] [main/WARN] [mixin/]: @Mixin target dev.shadowsoffire.apotheosis.adventure.socket.gem.bonus.EnchantmentBonus was not found skilltree.mixins.json:apotheosis/EnchantmentBonusMixin
+[20Dec2024 22:13:44.843] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
+[20Dec2024 22:13:44.844] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
+[20Dec2024 22:13:44.844] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found relics.mixins.json:ScreenMixin
+[20Dec2024 22:13:45.123] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.2).
+[20Dec2024 22:13:53.670] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[20Dec2024 22:13:53.813] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[20Dec2024 22:13:53.813] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[20Dec2024 22:13:57.495] [modloading-worker-0/INFO] [studio.lunareclipse.watching.Init/]: From The Fog Loaded Successfully!
+[20Dec2024 22:13:57.912] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [attributefix] Starting version check at https://updates.blamejared.com/get?n=attributefix&gv=1.20.1
+[20Dec2024 22:13:58.496] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [attributefix] Found status: BETA Current: 21.0.4 Target: 21.0.4
+[20Dec2024 22:13:58.496] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[20Dec2024 22:13:58.513] [main/INFO] [journeymap/]: Initializing Packet Registries
+[20Dec2024 22:13:58.564] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[20Dec2024 22:13:58.565] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[20Dec2024 22:13:58.565] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[20Dec2024 22:13:58.565] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[20Dec2024 22:13:58.570] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[20Dec2024 22:13:58.570] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[20Dec2024 22:13:58.570] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[20Dec2024 22:13:58.571] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[20Dec2024 22:13:58.571] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[20Dec2024 22:13:58.571] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[20Dec2024 22:13:58.571] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[20Dec2024 22:13:58.608] [modloading-worker-0/INFO] [AttributeFix/]: Loaded values for 24 compatible attributes.
+[20Dec2024 22:13:58.614] [modloading-worker-0/INFO] [AttributeFix/]: Loaded 24 values from config.
+[20Dec2024 22:13:58.623] [modloading-worker-0/INFO] [AttributeFix/]: Saving config file. 24 entries.
+[20Dec2024 22:13:58.624] [modloading-worker-0/INFO] [AttributeFix/]: Applying changes for 24 attributes.
+[20Dec2024 22:13:58.645] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[20Dec2024 22:13:58.665] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[20Dec2024 22:13:58.670] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[20Dec2024 22:13:58.672] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[20Dec2024 22:13:58.673] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[20Dec2024 22:13:58.814] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: OUTDATED Current: 5.10.2 Target: 5.10.3
+[20Dec2024 22:13:58.815] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[20Dec2024 22:13:58.859] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: OUTDATED Current: 9.1.14 Target: 9.1.16
+[20Dec2024 22:13:58.860] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[20Dec2024 22:13:58.883] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.8.6 Target: null
+[20Dec2024 22:13:58.884] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[20Dec2024 22:13:59.090] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.12
+[20Dec2024 22:14:02.030] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20Dec2024 22:14:04.678] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23161!/assets/.mcassetsroot' uses unexpected schema
+[20Dec2024 22:14:04.678] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23161!/data/.mcassetsroot' uses unexpected schema
+[20Dec2024 22:14:06.662] [Worker-Main-1/ERROR] [net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener/]: Couldn't parse data file redeco:blocks/oak_sword_mount from redeco:loot_tables/blocks/oak_sword_mount.json
 com.google.gson.JsonParseException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 1 path $
 	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:526) ~[server-1.20.1-20230612.114412-srg.jar%23161!/:?]
 	at net.minecraft.util.GsonHelper.m_263475_(GsonHelper.java:531) ~[server-1.20.1-20230612.114412-srg.jar%23161!/:?]
@@ -103,7 +103,7 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 	at com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.jar%2372!/:?]
 	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:524) ~[server-1.20.1-20230612.114412-srg.jar%23161!/:?]
 	... 11 more
-[20Dec2024 15:22:08.734] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:redeco:blocks/soul_terrarium
+[20Dec2024 22:14:06.926] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:redeco:blocks/soul_terrarium
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'redeco:soul_terrarium'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23161!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -155,7 +155,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
-[20Dec2024 15:22:09.177] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe redeco:magenta_upholstery
+[20Dec2024 22:14:07.348] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe redeco:magenta_upholstery
 com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23161!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -191,8 +191,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[20Dec2024 15:22:09.231] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 9 recipes
-[20Dec2024 15:22:09.232] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function watching:check
+[20Dec2024 22:14:07.381] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 9 recipes
+[20Dec2024 22:14:07.382] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function watching:check
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
 	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -208,295 +208,52 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 	at net.minecraft.server.ServerFunctionLibrary.m_214320_(ServerFunctionLibrary.java:83) ~[server-1.20.1-20230612.114412-srg.jar%23161!/:?]
 	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 6 more
-[20Dec2024 15:22:09.415] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2384 advancements
-[20Dec2024 15:22:09.430] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 14 curio slots
-[20Dec2024 15:22:09.443] [main/ERROR] [top.theillusivec4.curios.Curios/]: talisman is not a registered slot type!
-[20Dec2024 15:22:09.447] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[20Dec2024 15:22:11.170] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[20Dec2024 15:22:11.171] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[20Dec2024 15:22:11.171] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[20Dec2024 15:22:11.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[20Dec2024 15:22:11.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[20Dec2024 15:22:11.410] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[20Dec2024 15:22:11.518] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20Dec2024 15:22:11.519] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[20Dec2024 15:22:11.519] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20Dec2024 15:22:11.519] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[20Dec2024 15:22:11.539] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[20Dec2024 15:22:11.541] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[20Dec2024 15:22:11.718] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[20Dec2024 15:22:12.319] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[20Dec2024 15:22:12.324] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[20Dec2024 15:22:20.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[20Dec2024 15:22:23.025] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Dec2024 15:22:23.040] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Dec2024 15:22:23.041] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Dec2024 15:22:23.042] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Dec2024 15:22:23.043] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Dec2024 15:22:23.080] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Dec2024 15:22:23.653] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Dec2024 15:22:24.060] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Dec2024 15:22:24.560] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Dec2024 15:22:25.060] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Dec2024 15:22:25.559] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 25%
-[20Dec2024 15:22:26.060] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 59%
-[20Dec2024 15:22:26.475] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5916 ms
-[20Dec2024 15:22:26.476] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (14.943s)! For help, type "help"
-[20Dec2024 15:22:26.563] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[20Dec2024 15:22:26.654] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[20Dec2024 15:22:26.655] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[20Dec2024 15:22:45.016] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[20Dec2024 15:22:45.087] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Thedoctor12[/127.72.25.117:52435] logged in with entity id 421 at (-199.43977513013985, 74.0, 48.60944558206458)
-[20Dec2024 15:22:45.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 joined the game
-[20Dec2024 15:22:45.501] [Server thread/INFO] [Jade/]: Syncing config to Thedoctor12 (0b71cd80-d0a7-3387-8377-8ae54bed542b)
-[20Dec2024 15:22:55.371] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Velocipro342[/127.245.65.36:37673] logged in with entity id 432 at (-200.5, 71.0, 9.5)
-[20Dec2024 15:22:55.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Velocipro342 joined the game
-[20Dec2024 15:22:55.446] [Server thread/INFO] [Jade/]: Syncing config to Velocipro342 (815e2aaf-e2fa-393b-8cb3-60f5635fca0d)
-[20Dec2024 15:22:55.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Velocipro342 has made the advancement [Christmas]
-[20Dec2024 15:22:55.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Velocipro342 has made the advancement [Ice and Fire]
-[20Dec2024 15:23:39.451] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
-[20Dec2024 15:23:42.907] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
-[20Dec2024 15:23:42.908] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
-[20Dec2024 15:23:42.908] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
-[20Dec2024 15:23:42.909] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
-[20Dec2024 15:23:45.125] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
-[20Dec2024 15:23:45.126] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
-[20Dec2024 15:23:45.126] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
-[20Dec2024 15:23:45.127] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
-[20Dec2024 15:23:45.836] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
-[20Dec2024 15:23:45.836] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
-[20Dec2024 15:23:45.837] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
-[20Dec2024 15:23:45.837] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
-[20Dec2024 15:23:48.206] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
-[20Dec2024 15:23:48.208] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
-[20Dec2024 15:23:48.208] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
-[20Dec2024 15:23:48.209] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
-[20Dec2024 15:23:49.550] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Thedoctor12 moved too quickly! -3.297971171629456,0.0,-9.802350807839801
-[20Dec2024 15:23:50.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Velocipro342 has made the advancement [Monster Hunter]
-[20Dec2024 15:23:52.902] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
-[20Dec2024 15:23:52.903] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
-[20Dec2024 15:23:52.903] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
-[20Dec2024 15:23:52.903] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
-[20Dec2024 15:23:53.683] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
-[20Dec2024 15:23:53.684] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
-[20Dec2024 15:23:53.685] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
-[20Dec2024 15:23:53.685] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
-[20Dec2024 15:23:57.187] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
-[20Dec2024 15:23:57.188] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
-[20Dec2024 15:23:57.188] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
-[20Dec2024 15:23:57.188] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
-[20Dec2024 15:23:58.000] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
-[20Dec2024 15:23:58.000] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
-[20Dec2024 15:23:58.001] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
-[20Dec2024 15:23:58.001] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
-[20Dec2024 15:24:05.835] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
-[20Dec2024 15:24:05.837] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
-[20Dec2024 15:24:05.838] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
-[20Dec2024 15:24:05.838] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
-[20Dec2024 15:24:07.296] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
-[20Dec2024 15:24:07.297] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
-[20Dec2024 15:24:07.297] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
-[20Dec2024 15:24:07.297] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
-[20Dec2024 15:24:07.648] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Thedoctor12 moved too quickly! -3.0610894355908727,0.0,-10.014601385717583
-[20Dec2024 15:24:08.347] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
-[20Dec2024 15:24:08.348] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
-[20Dec2024 15:24:08.348] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
-[20Dec2024 15:24:08.349] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
-[20Dec2024 15:24:10.849] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nuclator247[/127.72.166.203:49559] logged in with entity id 2133 at (-210.5, 68.0, -5.5)
-[20Dec2024 15:24:10.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 joined the game
-[20Dec2024 15:24:10.925] [Server thread/INFO] [Jade/]: Syncing config to Nuclator247 (f2bd9d65-f9ce-3daa-ba2f-b4e8f78d88f5)
-[20Dec2024 15:24:10.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 has made the advancement [Christmas]
-[20Dec2024 15:24:11.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 has made the advancement [Ice and Fire]
-[20Dec2024 15:24:22.714] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nuclator247 lost connection: Disconnected
-[20Dec2024 15:24:22.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 left the game
-[20Dec2024 15:24:45.844] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
-[20Dec2024 15:24:45.845] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
-[20Dec2024 15:24:45.846] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
-[20Dec2024 15:24:45.846] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
-[20Dec2024 15:24:51.183] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
-[20Dec2024 15:24:51.185] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
-[20Dec2024 15:24:51.185] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
-[20Dec2024 15:24:51.186] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
-[20Dec2024 15:25:28.379] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:has_structure/woodland_mansion (biomesoplenty:woodland) took 342 ms
-[20Dec2024 15:25:33.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Teleported Thedoctor12 to -747.500000, 110.000000, 453.500000]
-[20Dec2024 15:25:33.563] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Velocipro342 moved too quickly! 0.31050205302187806,-1.044812420399012,9.986967432156053
-[20Dec2024 15:25:46.724] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Thedoctor12 moved too quickly! -9.146705699777726,0.0,4.879122267188677
-[20Dec2024 15:25:48.914] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2459ms or 49 ticks behind
-[20Dec2024 15:25:53.848] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Thedoctor12 moved too quickly! -10.03399541106603,0.0,1.068085927018842
-[20Dec2024 15:26:14.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Set the world spawn point to -925, 71, 548 [0.0]]
-[20Dec2024 15:26:41.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Teleported Velocipro342 to Thedoctor12]
-[20Dec2024 15:27:00.093] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-345, y=63, z=30} BlockPos{x=-934, y=70, z=551}
-[20Dec2024 15:27:02.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Set own game mode to Survival Mode]
-[20Dec2024 15:27:34.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Set own game mode to Creative Mode]
-[20Dec2024 15:28:51.585] [Server thread/WARN] [tombstone/]: The death event of the player Velocipro342 was canceled by another mod
-[20Dec2024 15:28:51.603] [Server thread/INFO] [tombstone/]: The player Velocipro342 has successfully been saved
-[20Dec2024 15:29:05.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Velocipro342 hit the ground too hard
-[20Dec2024 15:29:05.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Velocipro342 has made the advancement [Your First Grave]
-[20Dec2024 15:29:07.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Velocipro342 has made the advancement [The Most Useful Key]
-[20Dec2024 15:29:44.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Velocipro342 has reached the goal [Here They Come]
-[20Dec2024 15:31:19.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 has made the advancement [A Flaming Sword]
-[20Dec2024 15:31:19.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Gave 1 [Iced Dragon Bone Sword] to Thedoctor12]
-[20Dec2024 15:31:27.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Velocipro342 has made the advancement [Stone Age]
-[20Dec2024 15:31:37.462] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Thedoctor12 lost connection: Disconnected
-[20Dec2024 15:31:37.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 left the game
-[20Dec2024 15:33:03.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Velocipro342 has made the advancement [Getting an Upgrade]
-[20Dec2024 15:34:09.766] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Thedoctor12[/127.72.25.117:60471] logged in with entity id 6708 at (-1010.0775279328195, 82.66326974990885, 546.2360399445466)
-[20Dec2024 15:34:09.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 joined the game
-[20Dec2024 15:34:09.824] [Server thread/INFO] [Jade/]: Syncing config to Thedoctor12 (0b71cd80-d0a7-3387-8377-8ae54bed542b)
-[20Dec2024 15:34:58.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 has made the advancement [Dragonslayer]
-[20Dec2024 15:35:08.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Velocipro342 has made the advancement [Ice Bucket Challenge]
-[20Dec2024 15:35:08.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Velocipro342 has made the advancement [Suit Up]
-[20Dec2024 15:35:19.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Velocipro342 has made the advancement [Acquire Hardware]
-[20Dec2024 15:35:28.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Gave 64 [Glass] to Thedoctor12]
-[20Dec2024 15:35:37.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thedoctor12> fuera
-[20Dec2024 15:35:50.960] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Thedoctor12 lost connection: Disconnected
-[20Dec2024 15:35:50.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 left the game
-[20Dec2024 15:38:25.720] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Thedoctor12[/127.72.25.117:38975] logged in with entity id 7684 at (-1092.0965392185926, 65.125, 481.3846938394249)
-[20Dec2024 15:38:25.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 joined the game
-[20Dec2024 15:38:25.763] [Server thread/INFO] [Jade/]: Syncing config to Thedoctor12 (0b71cd80-d0a7-3387-8377-8ae54bed542b)
-[20Dec2024 15:38:49.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Set own game mode to Survival Mode]
-[20Dec2024 15:40:10.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 has made the advancement [Suit Up]
-[20Dec2024 15:40:11.264] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nuclator247[/127.72.166.203:42609] logged in with entity id 7996 at (-210.5, 68.0, -5.5)
-[20Dec2024 15:40:11.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 joined the game
-[20Dec2024 15:40:11.274] [Server thread/INFO] [Jade/]: Syncing config to Nuclator247 (f2bd9d65-f9ce-3daa-ba2f-b4e8f78d88f5)
-[20Dec2024 15:40:16.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 has made the advancement [Acquire Hardware]
-[20Dec2024 15:41:17.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 has made the advancement [Monster Hunter]
-[20Dec2024 15:43:47.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 has made the advancement [Acquire Hardware]
-[20Dec2024 15:45:00.027] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-32, z=-208}
-[20Dec2024 15:45:00.818] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-106, y=-32, z=-216}
-[20Dec2024 15:45:12.700] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-861, y=49, z=1006} but found not block entity block Block{minecraft:water}[level=1] at location
-[20Dec2024 15:45:12.701] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=-861, y=49, z=1006}
-[20Dec2024 15:47:48.127] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
-[20Dec2024 15:47:48.128] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
-[20Dec2024 15:47:48.129] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
-[20Dec2024 15:47:48.798] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
-[20Dec2024 15:47:48.799] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
-[20Dec2024 15:47:48.800] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
-[20Dec2024 15:47:48.800] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
-[20Dec2024 15:48:39.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Teleported Nuclator247 to Thedoctor12]
-[20Dec2024 15:48:48.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Teleported Velocipro342 to Thedoctor12]
-[20Dec2024 15:50:29.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 has made the advancement [Stone Age]
-[20Dec2024 15:50:32.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 has made the advancement [Stone Age]
-[20Dec2024 15:51:10.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 has made the advancement [Getting an Upgrade]
-[20Dec2024 15:53:03.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Teleported Velocipro342 to Thedoctor12]
-[20Dec2024 15:54:11.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Teleported Velocipro342 to Nuclator247]
-[20Dec2024 15:54:11.909] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
-[20Dec2024 15:54:11.909] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
-[20Dec2024 15:54:11.910] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
-[20Dec2024 15:54:11.910] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
-[20Dec2024 15:54:11.949] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
-[20Dec2024 15:54:11.950] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
-[20Dec2024 15:54:11.950] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
-[20Dec2024 15:54:11.950] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
-[20Dec2024 15:54:11.954] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
-[20Dec2024 15:54:11.954] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
-[20Dec2024 15:54:11.955] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
-[20Dec2024 15:54:11.955] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
-[20Dec2024 15:55:35.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Teleported Velocipro342 to Thedoctor12]
-[20Dec2024 15:55:43.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Teleported Nuclator247 to Thedoctor12]
-[20Dec2024 15:56:46.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Velocipro342 has made the advancement [Sweet Dreams]
-[20Dec2024 15:58:23.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 has made the advancement [Sweet Dreams]
-[20Dec2024 15:59:16.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 has made the advancement [Sweet Dreams]
-[20Dec2024 15:59:42.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thedoctor12> aaaaaaaaaaaaaaaaaaa
-[20Dec2024 15:59:46.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Velocipro342> xasgcdASCDsrvfbhirfw
-[20Dec2024 15:59:51.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thedoctor12> dsdfghjkl
-[20Dec2024 16:02:15.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 has made the advancement [Diamonds!]
-[20Dec2024 16:02:17.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 has made the advancement [Isn't It Iron Pick]
-[20Dec2024 16:02:43.917] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/19142, l='ServerLevel[world]', x=-866.70, y=49.00, z=1018.30] died: Unlicensed Alchemist was slain by Thedoctor12
-[20Dec2024 16:02:47.785] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/20949, l='ServerLevel[world]', x=-866.70, y=49.00, z=1018.30] died: Unlicensed Alchemist was slain by Thedoctor12
-[20Dec2024 16:02:49.121] [Server thread/WARN] [tombstone/]: The death event of the player Thedoctor12 was canceled by another mod
-[20Dec2024 16:02:49.124] [Server thread/INFO] [tombstone/]: The player Thedoctor12 has successfully been saved
-[20Dec2024 16:03:05.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 was killed by Potion using magic
-[20Dec2024 16:03:05.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 has made the advancement [Your First Grave]
-[20Dec2024 16:03:07.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 has made the advancement [The Most Useful Key]
-[20Dec2024 16:03:13.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 has made the advancement [Knowledge of Death]
-[20Dec2024 16:03:13.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 has reached the goal [A Fast Comeback]
-[20Dec2024 16:03:17.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 has reached the goal [Here They Come]
-[20Dec2024 16:03:20.376] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/19144, l='ServerLevel[world]', x=-870.53, y=49.00, z=1019.90] died: Unlicensed Alchemist was slain by Thedoctor12
-[20Dec2024 16:03:22.427] [Server thread/WARN] [tombstone/]: The death event of the player Thedoctor12 was canceled by another mod
-[20Dec2024 16:03:22.432] [Server thread/INFO] [tombstone/]: The player Thedoctor12 has successfully been saved
-[20Dec2024 16:03:31.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 was slain by Unlicensed Alchemist
-[20Dec2024 16:03:35.128] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/21232, l='ServerLevel[world]', x=-857.57, y=49.16, z=1012.70] died: Unlicensed Alchemist was slain by Nuclator247
-[20Dec2024 16:03:36.465] [Server thread/WARN] [tombstone/]: The death event of the player Nuclator247 was canceled by another mod
-[20Dec2024 16:03:36.473] [Server thread/INFO] [tombstone/]: The player Nuclator247 has successfully been saved
-[20Dec2024 16:03:43.422] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/20765, l='ServerLevel[world]', x=-870.15, y=49.42, z=1018.53] died: Unlicensed Alchemist was slain by Thedoctor12
-[20Dec2024 16:04:36.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 was killed by Potion using magic
-[20Dec2024 16:04:36.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 has made the advancement [Your First Grave]
-[20Dec2024 16:04:39.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 has made the advancement [The Most Useful Key]
-[20Dec2024 16:04:51.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 has made the advancement [Knowledge of Death]
-[20Dec2024 16:04:51.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 has reached the goal [A Fast Comeback]
-[20Dec2024 16:04:54.773] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/24626, l='ServerLevel[world]', x=-855.36, y=49.00, z=1008.14] died: Unlicensed Alchemist was slain by Thedoctor12
-[20Dec2024 16:04:56.464] [Server thread/WARN] [tombstone/]: The death event of the player Thedoctor12 was canceled by another mod
-[20Dec2024 16:04:56.476] [Server thread/INFO] [tombstone/]: The player Thedoctor12 has successfully been saved
-[20Dec2024 16:08:00.203] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
-[20Dec2024 16:08:00.204] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
-[20Dec2024 16:08:00.206] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
-[20Dec2024 16:08:00.207] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
-[20Dec2024 16:08:00.235] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
-[20Dec2024 16:08:00.236] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
-[20Dec2024 16:08:00.236] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
-[20Dec2024 16:08:00.236] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
-[20Dec2024 16:08:00.237] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
-[20Dec2024 16:08:00.262] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
-[20Dec2024 16:08:00.263] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
-[20Dec2024 16:08:00.263] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
-[20Dec2024 16:08:00.264] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
-[20Dec2024 16:08:00.374] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
-[20Dec2024 16:08:00.374] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
-[20Dec2024 16:08:00.375] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
-[20Dec2024 16:08:00.375] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
-[20Dec2024 16:09:39.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 has made the advancement [Isn't It Iron Pick]
-[20Dec2024 16:09:57.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Velocipro342 has made the advancement [Isn't It Iron Pick]
-[20Dec2024 16:10:03.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 has made the advancement [Suit Up]
-[20Dec2024 16:10:36.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 has made the advancement [Would you Like to Know More?]
-[20Dec2024 16:11:07.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Set own game mode to Creative Mode]
-[20Dec2024 16:12:20.874] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/10280, l='ServerLevel[world]', x=-767.53, y=64.00, z=843.31] died, message: 'Nitwit was slain by Zombie'
-[20Dec2024 16:12:41.921] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Thedoctor12 lost connection: Disconnected
-[20Dec2024 16:12:41.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 left the game
-[20Dec2024 16:14:32.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nuclator247> e
-[20Dec2024 16:15:49.679] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Thedoctor12[/127.72.25.117:39121] logged in with entity id 31727 at (-742.5602850699196, 64.18353947274144, 1240.0252217054747)
-[20Dec2024 16:15:49.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 joined the game
-[20Dec2024 16:15:49.699] [Server thread/INFO] [Jade/]: Syncing config to Thedoctor12 (0b71cd80-d0a7-3387-8377-8ae54bed542b)
-[20Dec2024 16:16:07.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Set own game mode to Survival Mode]
-[20Dec2024 16:18:30.872] [Server thread/WARN] [tombstone/]: The death event of the player Thedoctor12 was canceled by another mod
-[20Dec2024 16:18:30.874] [Server thread/INFO] [tombstone/]: The player Thedoctor12 has successfully been saved
-[20Dec2024 16:18:37.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 withered away
-[20Dec2024 16:19:26.568] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nuclator247 lost connection: Disconnected
-[20Dec2024 16:19:26.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 left the game
-[20Dec2024 16:19:46.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thedoctor12> no me va el audio
-[20Dec2024 16:19:56.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thedoctor12> si
-[20Dec2024 16:20:05.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thedoctor12> no
-[20Dec2024 16:20:20.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thedoctor12> espera
-[20Dec2024 16:21:54.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thedoctor12> me escuchas??
-[20Dec2024 16:23:30.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thedoctor12> me escuchas??
-[20Dec2024 16:24:33.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thedoctor12> me voy y vuelvo
-[20Dec2024 16:26:59.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 has made the advancement [Ashes 'n Bones]
-[20Dec2024 16:27:37.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Teleported Thedoctor12 to Velocipro342]
-[20Dec2024 16:27:50.021] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nuclator247[/127.72.166.203:50441] logged in with entity id 36335 at (-824.1635540972729, 88.0, 805.9387032459468)
-[20Dec2024 16:27:50.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 joined the game
-[20Dec2024 16:27:50.066] [Server thread/INFO] [Jade/]: Syncing config to Nuclator247 (f2bd9d65-f9ce-3daa-ba2f-b4e8f78d88f5)
-[20Dec2024 16:31:51.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 has made the advancement [Ice Bucket Challenge]
-[20Dec2024 16:33:49.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 has made the advancement [We Need to Go Deeper]
-[20Dec2024 16:33:51.422] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3567ms or 71 ticks behind
-[20Dec2024 16:33:55.513] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/36179, l='ServerLevel[world]', x=-806.10, y=66.00, z=858.30] died, message: 'Unemployed was slain by Zombie'
-[20Dec2024 16:35:48.119] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/26829, l='ServerLevel[world]', x=-817.89, y=94.00, z=802.50] died, message: 'Scribe was slain by Thedoctor12'
-[20Dec2024 16:35:48.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 has made the advancement [Neighborhood Brawl]
-[20Dec2024 16:35:51.449] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/26835, l='ServerLevel[world]', x=-816.71, y=94.00, z=800.30] died, message: 'Unemployed was slain by Thedoctor12'
-[20Dec2024 16:35:51.711] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/24629, l='ServerLevel[world]', x=-816.25, y=94.00, z=800.30] died, message: 'Shepherd was slain by Thedoctor12'
-[20Dec2024 16:37:20.962] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Thedoctor12 lost connection: Disconnected
-[20Dec2024 16:37:20.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 left the game
-[20Dec2024 16:37:42.015] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Velocipro342 lost connection: Disconnected
-[20Dec2024 16:37:42.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Velocipro342 left the game
-[20Dec2024 16:37:42.019] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nuclator247 lost connection: Disconnected
-[20Dec2024 16:37:42.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 left the game
-[20Dec2024 16:37:42.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[20Dec2024 16:37:42.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[20Dec2024 16:37:42.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[20Dec2024 16:37:42.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[20Dec2024 16:37:43.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[20Dec2024 16:37:43.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[20Dec2024 16:37:43.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20Dec2024 16:37:43.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20Dec2024 16:37:43.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20Dec2024 16:37:43.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[20Dec2024 16:37:43.181] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[20Dec2024 22:14:07.513] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2384 advancements
+[20Dec2024 22:14:07.522] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 14 curio slots
+[20Dec2024 22:14:07.529] [main/ERROR] [top.theillusivec4.curios.Curios/]: talisman is not a registered slot type!
+[20Dec2024 22:14:07.530] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[20Dec2024 22:14:09.262] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[20Dec2024 22:14:09.262] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[20Dec2024 22:14:09.263] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[20Dec2024 22:14:09.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[20Dec2024 22:14:09.410] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[20Dec2024 22:14:09.437] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[20Dec2024 22:14:09.526] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20Dec2024 22:14:09.527] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[20Dec2024 22:14:09.528] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20Dec2024 22:14:09.528] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[20Dec2024 22:14:09.549] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[20Dec2024 22:14:09.550] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[20Dec2024 22:14:09.554] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[20Dec2024 22:14:09.698] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[20Dec2024 22:14:10.513] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[20Dec2024 22:14:10.516] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[20Dec2024 22:14:19.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[20Dec2024 22:14:24.068] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Dec2024 22:14:24.123] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Dec2024 22:14:24.138] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Dec2024 22:14:24.178] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Dec2024 22:14:24.196] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Dec2024 22:14:24.204] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Dec2024 22:14:24.226] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Dec2024 22:14:24.249] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Dec2024 22:14:24.277] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Dec2024 22:14:24.299] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Dec2024 22:14:24.313] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Dec2024 22:14:24.804] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Dec2024 22:14:25.303] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 18%
+[20Dec2024 22:14:25.827] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 71%
+[20Dec2024 22:14:26.083] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6780 ms
+[20Dec2024 22:14:26.084] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (16.541s)! For help, type "help"
+[20Dec2024 22:14:26.116] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[20Dec2024 22:14:26.155] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[20Dec2024 22:14:26.156] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[20Dec2024 22:14:58.315] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[20Dec2024 22:14:58.386] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Thedoctor12[/127.72.25.117:36035] logged in with entity id 357 at (-811.9578605311256, 93.0, 803.8313987334097)
+[20Dec2024 22:14:58.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 joined the game
+[20Dec2024 22:14:58.589] [Server thread/INFO] [Jade/]: Syncing config to Thedoctor12 (0b71cd80-d0a7-3387-8377-8ae54bed542b)
+[20Dec2024 22:14:58.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 has made the advancement [Mysterious Gift]
+[20Dec2024 22:18:56.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Gave 1 [Infinity Ham] to Thedoctor12]
+[20Dec2024 22:19:22.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Gave 1 [Horse Flute] to Thedoctor12]
+[20Dec2024 22:20:53.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Gave 1 [Spider Traveler's Backpack] to Thedoctor12]
+[20Dec2024 22:23:08.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Gave 1 [Crafting Upgrade] to Thedoctor12]
