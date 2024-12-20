@@ -1809,6 +1809,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/spider_smithing": {
+    "criteria": {
+      "has_spider": "2024-12-20 22:20:53 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/mysterious_gift": {
     "criteria": {
       "coded_trigger": "2024-12-20 22:14:58 +0000"
