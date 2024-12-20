@@ -4426,3 +4426,60 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Dec2024 15:59:42.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thedoctor12> aaaaaaaaaaaaaaaaaaa
 [20Dec2024 15:59:46.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Velocipro342> xasgcdASCDsrvfbhirfw
 [20Dec2024 15:59:51.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thedoctor12> dsdfghjkl
+[20Dec2024 16:02:15.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 has made the advancement [Diamonds!]
+[20Dec2024 16:02:17.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 has made the advancement [Isn't It Iron Pick]
+[20Dec2024 16:02:29.090] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 16:02:29.098] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 16:02:43.917] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/19142, l='ServerLevel[world]', x=-866.70, y=49.00, z=1018.30] died: Unlicensed Alchemist was slain by Thedoctor12
+[20Dec2024 16:02:47.785] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/20949, l='ServerLevel[world]', x=-866.70, y=49.00, z=1018.30] died: Unlicensed Alchemist was slain by Thedoctor12
+[20Dec2024 16:02:49.121] [Server thread/WARN] [tombstone/]: The death event of the player Thedoctor12 was canceled by another mod
+[20Dec2024 16:02:49.124] [Server thread/INFO] [tombstone/]: The player Thedoctor12 has successfully been saved
+[20Dec2024 16:03:05.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 was killed by Potion using magic
+[20Dec2024 16:03:05.785] [Server thread/DEBUG] [tombstone/]: A new grave of the player Thedoctor12 was created at position [x:-869, y:49, z:1018, dim:minecraft:overworld]
+[20Dec2024 16:03:05.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 has made the advancement [Your First Grave]
+[20Dec2024 16:03:07.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 has made the advancement [The Most Useful Key]
+[20Dec2024 16:03:13.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 has made the advancement [Knowledge of Death]
+[20Dec2024 16:03:13.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 has reached the goal [A Fast Comeback]
+[20Dec2024 16:03:17.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 has reached the goal [Here They Come]
+[20Dec2024 16:03:20.376] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/19144, l='ServerLevel[world]', x=-870.53, y=49.00, z=1019.90] died: Unlicensed Alchemist was slain by Thedoctor12
+[20Dec2024 16:03:22.427] [Server thread/WARN] [tombstone/]: The death event of the player Thedoctor12 was canceled by another mod
+[20Dec2024 16:03:22.432] [Server thread/INFO] [tombstone/]: The player Thedoctor12 has successfully been saved
+[20Dec2024 16:03:31.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 was slain by Unlicensed Alchemist
+[20Dec2024 16:03:31.386] [Server thread/DEBUG] [tombstone/]: A new grave of the player Thedoctor12 was created at position [x:-869, y:49, z:1018, dim:minecraft:overworld]
+[20Dec2024 16:03:35.128] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/21232, l='ServerLevel[world]', x=-857.57, y=49.16, z=1012.70] died: Unlicensed Alchemist was slain by Nuclator247
+[20Dec2024 16:03:36.465] [Server thread/WARN] [tombstone/]: The death event of the player Nuclator247 was canceled by another mod
+[20Dec2024 16:03:36.473] [Server thread/INFO] [tombstone/]: The player Nuclator247 has successfully been saved
+[20Dec2024 16:03:43.422] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/20765, l='ServerLevel[world]', x=-870.15, y=49.42, z=1018.53] died: Unlicensed Alchemist was slain by Thedoctor12
+[20Dec2024 16:04:36.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 was killed by Potion using magic
+[20Dec2024 16:04:36.423] [Server thread/DEBUG] [tombstone/]: A new grave of the player Nuclator247 was created at position [x:-841, y:52, z:995, dim:minecraft:overworld]
+[20Dec2024 16:04:36.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 has made the advancement [Your First Grave]
+[20Dec2024 16:04:39.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 has made the advancement [The Most Useful Key]
+[20Dec2024 16:04:51.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 has made the advancement [Knowledge of Death]
+[20Dec2024 16:04:51.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 has reached the goal [A Fast Comeback]
+[20Dec2024 16:04:54.773] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/24626, l='ServerLevel[world]', x=-855.36, y=49.00, z=1008.14] died: Unlicensed Alchemist was slain by Thedoctor12
+[20Dec2024 16:04:56.464] [Server thread/WARN] [tombstone/]: The death event of the player Thedoctor12 was canceled by another mod
+[20Dec2024 16:04:56.476] [Server thread/INFO] [tombstone/]: The player Thedoctor12 has successfully been saved
+[20Dec2024 16:07:29.103] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 16:07:29.111] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 16:08:00.203] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[20Dec2024 16:08:00.204] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[20Dec2024 16:08:00.206] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[20Dec2024 16:08:00.207] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[20Dec2024 16:08:00.235] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[20Dec2024 16:08:00.236] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[20Dec2024 16:08:00.236] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[20Dec2024 16:08:00.236] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[20Dec2024 16:08:00.237] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[20Dec2024 16:08:00.262] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[20Dec2024 16:08:00.263] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[20Dec2024 16:08:00.263] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[20Dec2024 16:08:00.264] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[20Dec2024 16:08:00.374] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[20Dec2024 16:08:00.374] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[20Dec2024 16:08:00.375] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[20Dec2024 16:08:00.375] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[20Dec2024 16:09:39.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 has made the advancement [Isn't It Iron Pick]
+[20Dec2024 16:09:57.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Velocipro342 has made the advancement [Isn't It Iron Pick]
+[20Dec2024 16:10:03.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 has made the advancement [Suit Up]
+[20Dec2024 16:10:36.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 has made the advancement [Would you Like to Know More?]
+[20Dec2024 16:11:07.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Set own game mode to Creative Mode]
