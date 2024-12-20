@@ -336,3 +336,28 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Dec2024 15:29:44.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Velocipro342 has reached the goal [Here They Come]
 [20Dec2024 15:31:19.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 has made the advancement [A Flaming Sword]
 [20Dec2024 15:31:19.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Gave 1 [Iced Dragon Bone Sword] to Thedoctor12]
+[20Dec2024 15:31:27.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Velocipro342 has made the advancement [Stone Age]
+[20Dec2024 15:31:37.462] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Thedoctor12 lost connection: Disconnected
+[20Dec2024 15:31:37.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 left the game
+[20Dec2024 15:33:03.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Velocipro342 has made the advancement [Getting an Upgrade]
+[20Dec2024 15:34:09.766] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Thedoctor12[/127.72.25.117:60471] logged in with entity id 6708 at (-1010.0775279328195, 82.66326974990885, 546.2360399445466)
+[20Dec2024 15:34:09.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 joined the game
+[20Dec2024 15:34:09.824] [Server thread/INFO] [Jade/]: Syncing config to Thedoctor12 (0b71cd80-d0a7-3387-8377-8ae54bed542b)
+[20Dec2024 15:34:58.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 has made the advancement [Dragonslayer]
+[20Dec2024 15:35:08.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Velocipro342 has made the advancement [Ice Bucket Challenge]
+[20Dec2024 15:35:08.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Velocipro342 has made the advancement [Suit Up]
+[20Dec2024 15:35:19.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Velocipro342 has made the advancement [Acquire Hardware]
+[20Dec2024 15:35:28.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Gave 64 [Glass] to Thedoctor12]
+[20Dec2024 15:35:37.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thedoctor12> fuera
+[20Dec2024 15:35:50.960] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Thedoctor12 lost connection: Disconnected
+[20Dec2024 15:35:50.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 left the game
+[20Dec2024 15:38:25.720] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Thedoctor12[/127.72.25.117:38975] logged in with entity id 7684 at (-1092.0965392185926, 65.125, 481.3846938394249)
+[20Dec2024 15:38:25.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 joined the game
+[20Dec2024 15:38:25.763] [Server thread/INFO] [Jade/]: Syncing config to Thedoctor12 (0b71cd80-d0a7-3387-8377-8ae54bed542b)
+[20Dec2024 15:38:49.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Set own game mode to Survival Mode]
+[20Dec2024 15:40:10.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 has made the advancement [Suit Up]
+[20Dec2024 15:40:11.264] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nuclator247[/127.72.166.203:42609] logged in with entity id 7996 at (-210.5, 68.0, -5.5)
+[20Dec2024 15:40:11.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 joined the game
+[20Dec2024 15:40:11.274] [Server thread/INFO] [Jade/]: Syncing config to Nuclator247 (f2bd9d65-f9ce-3daa-ba2f-b4e8f78d88f5)
+[20Dec2024 15:40:16.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 has made the advancement [Acquire Hardware]
+[20Dec2024 15:41:17.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 has made the advancement [Monster Hunter]
