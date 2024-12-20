@@ -476,3 +476,27 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Dec2024 16:27:50.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 joined the game
 [20Dec2024 16:27:50.066] [Server thread/INFO] [Jade/]: Syncing config to Nuclator247 (f2bd9d65-f9ce-3daa-ba2f-b4e8f78d88f5)
 [20Dec2024 16:31:51.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 has made the advancement [Ice Bucket Challenge]
+[20Dec2024 16:33:49.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 has made the advancement [We Need to Go Deeper]
+[20Dec2024 16:33:51.422] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3567ms or 71 ticks behind
+[20Dec2024 16:33:55.513] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/36179, l='ServerLevel[world]', x=-806.10, y=66.00, z=858.30] died, message: 'Unemployed was slain by Zombie'
+[20Dec2024 16:35:48.119] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/26829, l='ServerLevel[world]', x=-817.89, y=94.00, z=802.50] died, message: 'Scribe was slain by Thedoctor12'
+[20Dec2024 16:35:48.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 has made the advancement [Neighborhood Brawl]
+[20Dec2024 16:35:51.449] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/26835, l='ServerLevel[world]', x=-816.71, y=94.00, z=800.30] died, message: 'Unemployed was slain by Thedoctor12'
+[20Dec2024 16:35:51.711] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/24629, l='ServerLevel[world]', x=-816.25, y=94.00, z=800.30] died, message: 'Shepherd was slain by Thedoctor12'
+[20Dec2024 16:37:20.962] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Thedoctor12 lost connection: Disconnected
+[20Dec2024 16:37:20.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 left the game
+[20Dec2024 16:37:42.015] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Velocipro342 lost connection: Disconnected
+[20Dec2024 16:37:42.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Velocipro342 left the game
+[20Dec2024 16:37:42.019] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nuclator247 lost connection: Disconnected
+[20Dec2024 16:37:42.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 left the game
+[20Dec2024 16:37:42.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[20Dec2024 16:37:42.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[20Dec2024 16:37:42.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[20Dec2024 16:37:42.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20Dec2024 16:37:43.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20Dec2024 16:37:43.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20Dec2024 16:37:43.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20Dec2024 16:37:43.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20Dec2024 16:37:43.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20Dec2024 16:37:43.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20Dec2024 16:37:43.181] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
