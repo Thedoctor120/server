@@ -450,3 +450,29 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Dec2024 16:10:03.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 has made the advancement [Suit Up]
 [20Dec2024 16:10:36.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 has made the advancement [Would you Like to Know More?]
 [20Dec2024 16:11:07.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Set own game mode to Creative Mode]
+[20Dec2024 16:12:20.874] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/10280, l='ServerLevel[world]', x=-767.53, y=64.00, z=843.31] died, message: 'Nitwit was slain by Zombie'
+[20Dec2024 16:12:41.921] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Thedoctor12 lost connection: Disconnected
+[20Dec2024 16:12:41.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 left the game
+[20Dec2024 16:14:32.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nuclator247> e
+[20Dec2024 16:15:49.679] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Thedoctor12[/127.72.25.117:39121] logged in with entity id 31727 at (-742.5602850699196, 64.18353947274144, 1240.0252217054747)
+[20Dec2024 16:15:49.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 joined the game
+[20Dec2024 16:15:49.699] [Server thread/INFO] [Jade/]: Syncing config to Thedoctor12 (0b71cd80-d0a7-3387-8377-8ae54bed542b)
+[20Dec2024 16:16:07.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Set own game mode to Survival Mode]
+[20Dec2024 16:18:30.872] [Server thread/WARN] [tombstone/]: The death event of the player Thedoctor12 was canceled by another mod
+[20Dec2024 16:18:30.874] [Server thread/INFO] [tombstone/]: The player Thedoctor12 has successfully been saved
+[20Dec2024 16:18:37.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 withered away
+[20Dec2024 16:19:26.568] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nuclator247 lost connection: Disconnected
+[20Dec2024 16:19:26.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 left the game
+[20Dec2024 16:19:46.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thedoctor12> no me va el audio
+[20Dec2024 16:19:56.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thedoctor12> si
+[20Dec2024 16:20:05.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thedoctor12> no
+[20Dec2024 16:20:20.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thedoctor12> espera
+[20Dec2024 16:21:54.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thedoctor12> me escuchas??
+[20Dec2024 16:23:30.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thedoctor12> me escuchas??
+[20Dec2024 16:24:33.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thedoctor12> me voy y vuelvo
+[20Dec2024 16:26:59.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 has made the advancement [Ashes 'n Bones]
+[20Dec2024 16:27:37.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Teleported Thedoctor12 to Velocipro342]
+[20Dec2024 16:27:50.021] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nuclator247[/127.72.166.203:50441] logged in with entity id 36335 at (-824.1635540972729, 88.0, 805.9387032459468)
+[20Dec2024 16:27:50.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 joined the game
+[20Dec2024 16:27:50.066] [Server thread/INFO] [Jade/]: Syncing config to Nuclator247 (f2bd9d65-f9ce-3daa-ba2f-b4e8f78d88f5)
+[20Dec2024 16:31:51.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 has made the advancement [Ice Bucket Challenge]
