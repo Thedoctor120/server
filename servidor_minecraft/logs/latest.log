@@ -258,3 +258,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22Dec2024 21:42:36.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Neconus_ has made the advancement [Christmas]
 [22Dec2024 21:42:36.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Neconus_ has made the advancement [Ice and Fire]
 [22Dec2024 21:46:23.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Teleported Neconus_ to Thedoctor12]
+[22Dec2024 21:52:22.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 has made the advancement [Magic Writing]
+[22Dec2024 21:54:06.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 has made the advancement [A Strange Grave Dust]
+[22Dec2024 21:55:25.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Neconus_ has made the advancement [We Need to Go Deeper]
