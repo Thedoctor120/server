@@ -25,11 +25,14 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:sparse_jungle": "2024-12-22 21:53:09 +0000",
       "minecraft:river": "2024-12-20 15:45:02 +0000",
       "minecraft:stony_shore": "2024-12-22 21:41:13 +0000",
       "minecraft:forest": "2024-12-20 15:25:47 +0000",
       "minecraft:desert": "2024-12-18 17:57:04 +0000",
-      "minecraft:warm_ocean": "2024-12-20 15:24:07 +0000"
+      "minecraft:jungle": "2024-12-22 21:53:27 +0000",
+      "minecraft:warm_ocean": "2024-12-20 15:24:07 +0000",
+      "minecraft:plains": "2024-12-22 21:52:57 +0000"
     },
     "done": false
   },
@@ -68,7 +71,8 @@
       "old_growth_woodland": "2024-12-20 15:49:19 +0000",
       "mediterranean_forest": "2024-12-20 15:43:35 +0000",
       "wasteland": "2024-12-20 15:34:35 +0000",
-      "lush_desert": "2024-12-20 15:24:03 +0000"
+      "lush_desert": "2024-12-20 15:24:03 +0000",
+      "rainforest": "2024-12-22 21:53:40 +0000"
     },
     "done": false
   },
@@ -1864,15 +1868,39 @@
     },
     "done": true
   },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2024-12-22 21:54:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
       "has_gold_ingot": "2024-12-22 21:45:15 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2024-12-22 21:55:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2024-12-22 21:45:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2024-12-22 21:55:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-22 21:56:14 +0000"
     },
     "done": true
   },
@@ -1891,6 +1919,18 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2024-12-22 21:45:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2024-12-22 21:56:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-22 21:55:16 +0000"
     },
     "done": true
   },
@@ -1918,6 +1958,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2024-12-22 21:55:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2024-12-22 21:45:13 +0000"
@@ -1930,9 +1976,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-22 21:55:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2024-12-22 21:55:12 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/palm_sign": {
     "criteria": {
       "has_planks": "2024-12-22 21:45:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-22 21:55:16 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/redstone": {
+    "criteria": {
+      "has_redstone": "2024-12-22 21:55:12 +0000"
     },
     "done": true
   },
@@ -1966,6 +2036,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-22 21:55:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-22 21:56:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2024-12-22 21:55:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2024-12-22 21:41:28 +0000"
@@ -1984,15 +2072,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-22 21:55:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2024-12-22 21:45:15 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2024-12-22 21:55:12 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/palm_fence": {
     "criteria": {
       "has_planks": "2024-12-22 21:45:03 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2024-12-22 21:54:06 +0000"
     },
     "done": true
   },
@@ -2014,15 +2120,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2024-12-22 21:56:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2024-12-22 21:45:15 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2024-12-22 21:56:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-22 21:55:16 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_magic_scroll": {
     "criteria": {
       "has_magic_scroll": "2024-12-22 21:52:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2024-12-22 21:56:57 +0000"
     },
     "done": true
   },
@@ -2053,6 +2183,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2024-12-22 21:45:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2024-12-22 21:55:12 +0000"
     },
     "done": true
   },
