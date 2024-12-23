@@ -1,690 +1,798 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1734545152788 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 3 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1734976325800 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545155953 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976328945 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545159103 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976332100 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545162270 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976335252 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545165418 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976338393 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545168566 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976341548 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545171721 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976344706 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545174865 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976347851 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545178142 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976350991 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545181289 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976354149 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545184450 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976357306 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545187698 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976360462 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545190845 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976363630 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545194005 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976366776 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545197178 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976369929 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545200320 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976373070 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545203474 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976376210 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545206640 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976379357 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545209799 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976382532 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545212951 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976385673 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545216106 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976388826 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545219259 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976391976 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545222411 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976395152 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545225563 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976398306 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545228716 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976401488 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545231885 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976404643 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545235027 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976407806 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545238241 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976410948 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545241395 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976414108 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545244555 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976417260 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545247701 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976420406 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545250850 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976423548 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545254012 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976426706 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545257241 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976429851 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545260379 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976432996 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545263518 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976436140 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545266659 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976439287 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545269810 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976442460 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545272965 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976445623 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545276122 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976448772 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545279285 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976451998 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545282447 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976455160 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545285647 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976458315 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545288799 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976461454 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545291959 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976464592 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545295111 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976467731 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545298262 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976470870 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545301411 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976474014 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545304561 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976477161 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545307723 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976480313 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545310887 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976483458 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545314039 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976486600 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545317189 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976489758 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545320335 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976492906 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545323495 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976496050 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545326652 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976499195 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545329812 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976502336 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545332969 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976505477 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545336121 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976508622 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545339271 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976511764 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545342424 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976515052 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545345574 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976518193 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545348815 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976521339 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545352200 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976524483 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545355354 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976528383 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545358505 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976531527 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545361664 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976534696 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545364817 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976537839 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545367972 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976540980 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545371121 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976544122 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545374269 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976547266 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545377418 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976550426 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545380562 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976553571 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545383757 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976556724 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545386912 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976559865 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545390073 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976563006 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545393306 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976566164 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545396472 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976569309 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545399633 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976572543 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545402779 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976575700 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545405930 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976578848 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545409092 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976582005 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545412247 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976585170 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545415398 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976588313 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545418545 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976591461 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545421688 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976594613 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545424845 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976597760 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545428011 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976600900 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545431153 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976604050 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545434303 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976607190 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545437462 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976610337 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545440611 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976613481 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545443756 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976616621 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545446907 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976619764 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545450062 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976622909 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545453217 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976626057 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545456364 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976629200 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545459520 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976632353 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545462666 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976635495 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545465811 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976638644 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545468987 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976641796 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545472136 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976644938 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545475283 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976648078 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545478447 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976651228 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545481593 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976654386 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545484757 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976657529 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545487914 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976660675 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545491063 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976663814 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545494208 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976666952 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545497482 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976670099 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545500677 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976673241 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545503824 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976676393 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545506970 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976679543 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545510130 tunnel running, 2 tunnels registered
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1734976682684 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1734545513283 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-official-priced.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-president-january.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+properties-wealth.gl.at.ply.gg:2921 => 127.0.0.1:25565 (proto: Udp, port count: 1)
