@@ -1214,18 +1214,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cake": {
-    "criteria": {
-      "has_egg": "2024-12-20 16:29:27 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/coal": {
-    "criteria": {
-      "has_coal": "2024-12-20 16:30:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2024-12-20 16:29:15 +0000"
@@ -1238,27 +1226,21 @@
     },
     "done": true
   },
-  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
-      "has_raw_silver": "2024-12-20 16:30:12 +0000"
+      "has_chicken": "2024-12-20 16:29:15 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
+  "minecraft:recipes/food/cake": {
     "criteria": {
-      "has_raw_silver": "2024-12-20 16:30:12 +0000"
+      "has_egg": "2024-12-20 16:29:27 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/coal_block": {
+  "travelersbackpack:recipes/misc/cake": {
     "criteria": {
-      "has_coal": "2024-12-20 16:30:39 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
-    "criteria": {
-      "has_raw_silver": "2024-12-20 16:30:12 +0000"
+      "has_egg": "2024-12-20 16:29:27 +0000"
     },
     "done": true
   },
@@ -1274,27 +1256,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
-      "has_chicken": "2024-12-20 16:29:15 +0000"
+      "has_raw_copper": "2024-12-20 16:30:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2024-12-20 16:30:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2024-12-20 16:30:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2024-12-20 16:30:12 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/coal": {
+    "criteria": {
+      "has_coal": "2024-12-20 16:30:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-12-20 16:30:39 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2024-12-20 16:30:59 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/cake": {
-    "criteria": {
-      "has_egg": "2024-12-20 16:29:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
-    "criteria": {
-      "has_raw_copper": "2024-12-20 16:30:08 +0000"
     },
     "done": true
   },
