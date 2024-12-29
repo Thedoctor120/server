@@ -268,3 +268,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Dec2024 15:18:34.540] [Server thread/WARN] [tombstone/]: The death event of the player Nuclator247 was canceled by another mod
 [29Dec2024 15:18:34.563] [Server thread/INFO] [tombstone/]: The player Nuclator247 has successfully been saved
 [29Dec2024 15:18:54.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 fell from a high place
+[29Dec2024 15:44:43.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 has made the advancement [A Strange Grave Dust]
+[29Dec2024 15:45:27.925] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nuclator247 lost connection: Disconnected
+[29Dec2024 15:45:27.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 left the game
+[29Dec2024 15:45:27.930] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Nuclator247
+[29Dec2024 15:49:36.649] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nuclator247[/127.226.97.213:58309] logged in with entity id 6590 at (-881.3480596671862, 67.0, 905.4084282648384)
+[29Dec2024 15:49:36.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 joined the game
+[29Dec2024 15:49:36.666] [Server thread/INFO] [Jade/]: Syncing config to Nuclator247 (f2bd9d65-f9ce-3daa-ba2f-b4e8f78d88f5)
+[29Dec2024 15:49:36.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 has made the advancement [Mysterious Gift]
+[29Dec2024 15:49:38.219] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Nuclator247 (18)
+[29Dec2024 15:49:38.220] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nuclator247
