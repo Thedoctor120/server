@@ -265,3 +265,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Dec2024 15:04:21.019] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Nuclator247 (18)
 [29Dec2024 15:04:21.021] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nuclator247
 [29Dec2024 15:07:51.475] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/597, l='ServerLevel[world]', x=-837.94, y=81.50, z=972.95] died, message: 'Unemployed hit the ground too hard'
+[29Dec2024 15:18:34.540] [Server thread/WARN] [tombstone/]: The death event of the player Nuclator247 was canceled by another mod
+[29Dec2024 15:18:34.563] [Server thread/INFO] [tombstone/]: The player Nuclator247 has successfully been saved
+[29Dec2024 15:18:54.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 fell from a high place

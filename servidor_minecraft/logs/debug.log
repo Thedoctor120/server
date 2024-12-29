@@ -3416,3 +3416,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Dec2024 15:05:04.273] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [29Dec2024 15:05:04.303] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [29Dec2024 15:07:51.475] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/597, l='ServerLevel[world]', x=-837.94, y=81.50, z=972.95] died, message: 'Unemployed hit the ground too hard'
+[29Dec2024 15:10:04.249] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 15:10:04.266] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 15:15:04.273] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 15:15:04.383] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 15:18:34.540] [Server thread/WARN] [tombstone/]: The death event of the player Nuclator247 was canceled by another mod
+[29Dec2024 15:18:34.563] [Server thread/INFO] [tombstone/]: The player Nuclator247 has successfully been saved
+[29Dec2024 15:18:54.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 fell from a high place
+[29Dec2024 15:18:54.387] [Server thread/DEBUG] [tombstone/]: A new grave of the player Nuclator247 was created at position [x:-875, y:64, z:900, dim:minecraft:overworld]
