@@ -283,3 +283,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Dec2024 15:53:48.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 has reached the goal [Treasure from the Past]
 [29Dec2024 15:53:48.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 has reached the goal [Gift Delivery]
 [29Dec2024 15:56:20.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 has made the advancement [We Need to Go Deeper]
+[29Dec2024 16:05:46.125] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nuclator247 lost connection: Disconnected
+[29Dec2024 16:05:46.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 left the game
+[29Dec2024 16:05:46.126] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Nuclator247
+[29Dec2024 16:05:46.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[29Dec2024 16:05:46.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[29Dec2024 16:05:46.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[29Dec2024 16:05:46.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[29Dec2024 16:05:46.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[29Dec2024 16:05:46.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[29Dec2024 16:05:46.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[29Dec2024 16:05:46.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[29Dec2024 16:05:46.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[29Dec2024 16:05:46.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[29Dec2024 16:05:46.759] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
