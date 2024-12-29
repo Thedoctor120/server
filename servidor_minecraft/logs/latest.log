@@ -278,3 +278,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Dec2024 15:49:36.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 has made the advancement [Mysterious Gift]
 [29Dec2024 15:49:38.219] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Nuclator247 (18)
 [29Dec2024 15:49:38.220] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nuclator247
+[29Dec2024 15:53:48.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 has made the advancement [Your First Receptacle]
+[29Dec2024 15:53:48.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 has made the advancement [Where Is The Stone Pen?]
+[29Dec2024 15:53:48.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 has reached the goal [Treasure from the Past]
+[29Dec2024 15:53:48.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 has reached the goal [Gift Delivery]
+[29Dec2024 15:56:20.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 has made the advancement [We Need to Go Deeper]
