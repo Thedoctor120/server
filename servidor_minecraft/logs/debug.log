@@ -3424,3 +3424,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Dec2024 15:18:34.563] [Server thread/INFO] [tombstone/]: The player Nuclator247 has successfully been saved
 [29Dec2024 15:18:54.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 fell from a high place
 [29Dec2024 15:18:54.387] [Server thread/DEBUG] [tombstone/]: A new grave of the player Nuclator247 was created at position [x:-875, y:64, z:900, dim:minecraft:overworld]
+[29Dec2024 15:20:04.262] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 15:20:04.336] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 15:22:39.628] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-871, y=65, z=892}) doesn't have enough leaves around top most log
+[29Dec2024 15:25:04.244] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 15:25:04.275] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
