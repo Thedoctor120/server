@@ -3445,3 +3445,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [30Dec2024 13:58:34.780] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/7288, l='ServerLevel[world]', x=-816.31, y=-256.00, z=799.90] died, message: 'Unemployed was killed'
 [30Dec2024 14:03:31.757] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Dec2024 14:03:31.766] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 14:08:31.760] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 14:08:31.768] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 14:09:54.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Applied enchantment Silk Touch to Thedoctor12's item]
+[30Dec2024 14:10:08.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Applied enchantment Efficiency IV to Thedoctor12's item]
+[30Dec2024 14:10:24.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Applied enchantment Mending to Thedoctor12's item]
+[30Dec2024 14:11:18.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Applied enchantment Unbreaking III to Thedoctor12's item]
+[30Dec2024 14:13:31.760] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 14:13:31.769] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
