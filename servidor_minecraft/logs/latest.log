@@ -266,3 +266,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [30Dec2024 13:08:52.723] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Thedoctor12 (18)
 [30Dec2024 13:08:52.725] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Thedoctor12
 [30Dec2024 13:13:49.582] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/528, l='ServerLevel[world]', x=-837.93, y=81.50, z=973.01] died, message: 'Unemployed hit the ground too hard'
+[30Dec2024 13:45:02.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Gave 14 [Witherbone] to Thedoctor12]
+[30Dec2024 13:45:19.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 has made the advancement [Splintering II]
+[30Dec2024 13:45:52.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Applied enchantment Efficiency IV to Thedoctor12's item]
+[30Dec2024 13:46:22.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Applied enchantment Mending to Thedoctor12's item]
