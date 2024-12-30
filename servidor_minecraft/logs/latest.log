@@ -294,3 +294,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [30Dec2024 14:54:32.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 fell from a high place
 [30Dec2024 15:07:12.366] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/19746, l='ServerLevel[world]', x=-874.30, y=35.00, z=883.50] died, message: 'Unemployed was slain by Thedoctor12'
 [30Dec2024 15:07:27.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 has made the advancement [Knowledge raises the soul]
+[30Dec2024 15:09:14.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Gave 14 [Villager Spawn Egg] to Thedoctor12]
