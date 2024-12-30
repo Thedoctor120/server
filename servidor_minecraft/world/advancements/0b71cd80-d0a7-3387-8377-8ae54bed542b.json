@@ -75,7 +75,9 @@
       "mediterranean_forest": "2024-12-20 15:43:35 +0000",
       "wasteland": "2024-12-20 15:34:35 +0000",
       "lush_desert": "2024-12-20 15:24:03 +0000",
+      "redwood_forest": "2024-12-30 18:44:55 +0000",
       "visceral_heap": "2024-12-30 17:44:55 +0000",
+      "prairie": "2024-12-30 18:36:44 +0000",
       "rainforest": "2024-12-22 21:53:40 +0000"
     },
     "done": false
@@ -2799,6 +2801,18 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/yellow_dye_from_goldenrod": {
+    "criteria": {
+      "has_goldenrod": "2024-12-30 18:42:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ash_to_charcoal": {
+    "criteria": {
+      "has_item": "2024-12-30 18:40:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2024-12-30 18:21:39 +0000"
@@ -2811,9 +2825,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/food/ambrosia": {
+    "criteria": {
+      "has_item": "2024-12-30 18:45:15 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_familiar_receptacle": {
     "criteria": {
       "has_receptacle_of_familiar": "2024-12-30 17:09:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-30 18:35:41 +0000"
     },
     "done": true
   },
