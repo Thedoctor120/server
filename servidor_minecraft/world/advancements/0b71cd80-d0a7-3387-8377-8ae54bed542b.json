@@ -2799,6 +2799,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-12-30 18:21:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ghost_chest": {
+    "criteria": {
+      "has_item": "2024-12-30 18:26:40 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_familiar_receptacle": {
     "criteria": {
       "has_receptacle_of_familiar": "2024-12-30 17:09:59 +0000"
@@ -2820,6 +2832,24 @@
   "minecraft:recipes/redstone/redstone_lamp": {
     "criteria": {
       "has_glowstone": "2024-12-30 17:45:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/graveyard_soil": {
+    "criteria": {
+      "has_item": "2024-12-30 18:26:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-12-30 18:21:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-30 18:25:09 +0000"
     },
     "done": true
   },

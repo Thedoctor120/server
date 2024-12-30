@@ -282,3 +282,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [30Dec2024 17:50:27.760] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2445ms or 48 ticks behind
 [30Dec2024 18:10:29.672] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/8968, l='ServerLevel[world]', x=-834.33, y=82.50, z=975.24] died, message: 'Unemployed was slain by Zombie'
 [30Dec2024 18:16:50.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Gave 6 [Waystone] to Thedoctor12]
+[30Dec2024 18:25:09.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 has made the advancement [Who You Gonna Call?]
+[30Dec2024 18:25:12.344] [Server thread/WARN] [tombstone/]: The death event of the player Thedoctor12 was canceled by another mod
+[30Dec2024 18:25:12.365] [Server thread/INFO] [tombstone/]: The player Thedoctor12 has successfully been saved
+[30Dec2024 18:25:21.086] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Thedoctor12 with unique ID 21fb2520-4ada-4fff-a47a-a9b0f7613dc4
+[30Dec2024 18:25:21.087] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -686 Y: 70 Z: 933
+[30Dec2024 18:25:21.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 was blown up by Creeper
