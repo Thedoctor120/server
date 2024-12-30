@@ -70,10 +70,12 @@
     "criteria": {
       "woodland": "2024-12-20 15:25:33 +0000",
       "scrubland": "2024-12-20 16:10:06 +0000",
+      "erupting_inferno": "2024-12-30 17:49:26 +0000",
       "old_growth_woodland": "2024-12-20 15:49:19 +0000",
       "mediterranean_forest": "2024-12-20 15:43:35 +0000",
       "wasteland": "2024-12-20 15:34:35 +0000",
       "lush_desert": "2024-12-20 15:24:03 +0000",
+      "visceral_heap": "2024-12-30 17:44:55 +0000",
       "rainforest": "2024-12-22 21:53:40 +0000"
     },
     "done": false
@@ -1807,7 +1809,9 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2024-12-20 16:33:51 +0000"
+      "minecraft:nether_wastes": "2024-12-20 16:33:51 +0000",
+      "minecraft:basalt_deltas": "2024-12-30 17:45:10 +0000",
+      "minecraft:warped_forest": "2024-12-30 17:44:59 +0000"
     },
     "done": false
   },
@@ -2810,6 +2814,18 @@
   "travelersbackpack:recipes/misc/enderman": {
     "criteria": {
       "has_ender_pearl": "2024-12-30 17:30:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2024-12-30 17:45:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-30 17:45:48 +0000"
     },
     "done": true
   },

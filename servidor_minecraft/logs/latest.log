@@ -279,3 +279,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [30Dec2024 17:24:43.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 was slain by Zombie
 [30Dec2024 17:33:30.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Gave 2 [Warp Stone] to Thedoctor12]
 [30Dec2024 17:34:41.182] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3767ms or 75 ticks behind
+[30Dec2024 17:50:27.760] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2445ms or 48 ticks behind
