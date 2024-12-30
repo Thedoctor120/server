@@ -300,3 +300,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [30Dec2024 18:40:22.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Set own game mode to Survival Mode]
 [30Dec2024 18:49:08.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 has made the advancement [Surfer Rosa]
 [30Dec2024 18:56:31.326] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/23736, l='ServerLevel[world]', x=-795.03, y=74.00, z=988.30] died, message: 'Unemployed was slain by Zombie'
+[30Dec2024 19:08:17.672] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Thedoctor12 lost connection: Disconnected
+[30Dec2024 19:08:17.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 left the game
+[30Dec2024 19:08:17.676] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Thedoctor12
