@@ -3462,3 +3462,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [30Dec2024 14:32:28.043] [Worker-Main-42/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
 [30Dec2024 14:33:31.756] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Dec2024 14:33:31.764] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 14:38:24.283] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/614, l='ServerLevel[world]', x=-767.17, y=64.00, z=843.86] died, message: 'Unemployed was slain by Zombie'
+[30Dec2024 14:38:31.753] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 14:38:31.760] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 14:42:09.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Gave 1 [Monster Spawner] to Thedoctor12]
+[30Dec2024 14:42:31.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Gave 1 [Spider Spawn Egg] to Thedoctor12]
+[30Dec2024 14:43:31.759] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 14:43:31.768] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 14:46:28.382] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/493, l='ServerLevel[world]', x=-800.06, y=35.00, z=846.58] died, message: 'Unemployed was slain by Zombie'

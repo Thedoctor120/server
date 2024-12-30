@@ -277,3 +277,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [30Dec2024 14:10:08.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Applied enchantment Efficiency IV to Thedoctor12's item]
 [30Dec2024 14:10:24.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Applied enchantment Mending to Thedoctor12's item]
 [30Dec2024 14:11:18.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Applied enchantment Unbreaking III to Thedoctor12's item]
+[30Dec2024 14:38:24.283] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/614, l='ServerLevel[world]', x=-767.17, y=64.00, z=843.86] died, message: 'Unemployed was slain by Zombie'
+[30Dec2024 14:42:09.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Gave 1 [Monster Spawner] to Thedoctor12]
+[30Dec2024 14:42:31.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Gave 1 [Spider Spawn Egg] to Thedoctor12]
+[30Dec2024 14:46:28.382] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/493, l='ServerLevel[world]', x=-800.06, y=35.00, z=846.58] died, message: 'Unemployed was slain by Zombie'
