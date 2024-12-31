@@ -303,3 +303,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [31Dec2024 11:59:15.985] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Thedoctor12 (18)
 [31Dec2024 11:59:15.987] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Thedoctor12
 [31Dec2024 12:02:29.122] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/20131, l='ServerLevel[world]', x=-873.46, y=-256.00, z=887.17] died, message: 'Unemployed was killed'
+[31Dec2024 12:06:52.323] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/20746, l='ServerLevel[world]', x=-816.31, y=-256.00, z=799.90] died, message: 'Unemployed was killed'
+[31Dec2024 12:08:16.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Set own game mode to Creative Mode]
+[31Dec2024 12:08:48.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Set own game mode to Survival Mode]
+[31Dec2024 12:12:53.731] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nuclator247 lost connection: Disconnected
+[31Dec2024 12:12:53.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 left the game
+[31Dec2024 12:12:53.733] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Nuclator247
+[31Dec2024 12:22:00.042] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nuclator247[/127.226.225.179:55397] logged in with entity id 22663 at (-868.8074463502905, 33.0, 902.5443695882225)
+[31Dec2024 12:22:00.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 joined the game
+[31Dec2024 12:22:00.086] [Server thread/INFO] [Jade/]: Syncing config to Nuclator247 (f2bd9d65-f9ce-3daa-ba2f-b4e8f78d88f5)
+[31Dec2024 12:22:02.151] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Nuclator247 (18)
+[31Dec2024 12:22:02.151] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nuclator247

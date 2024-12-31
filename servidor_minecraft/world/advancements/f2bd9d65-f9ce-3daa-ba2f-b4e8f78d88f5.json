@@ -2203,6 +2203,30 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/spider_smithing": {
+    "criteria": {
+      "has_spider": "2024-12-31 11:04:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-12-31 11:13:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2024-12-31 11:24:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2024-12-31 11:24:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/froglights": {
     "criteria": {
       "froglights": "2024-12-31 11:24:45 +0000"
@@ -2215,9 +2239,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+  "minecraft:recipes/decorations/grindstone": {
     "criteria": {
-      "has_copper_ore": "2024-12-31 11:24:33 +0000"
+      "has_stone_slab": "2024-12-31 11:41:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2024-12-31 11:51:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2024-12-31 11:51:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-31 11:53:30 +0000"
     },
     "done": true
   },
@@ -2230,12 +2272,6 @@
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2024-12-31 11:56:18 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/spider_smithing": {
-    "criteria": {
-      "has_spider": "2024-12-31 11:04:41 +0000"
     },
     "done": true
   },
@@ -2263,45 +2299,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_nether_gold_ore": {
-    "criteria": {
-      "has_nether_gold_ore": "2024-12-31 11:51:28 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/misc/quartz": {
     "criteria": {
       "has_quartz": "2024-12-31 11:56:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
-    "criteria": {
-      "has_nether_gold_ore": "2024-12-31 11:51:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/grindstone": {
-    "criteria": {
-      "has_stone_slab": "2024-12-31 11:41:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
-    "criteria": {
-      "has_copper_ore": "2024-12-31 11:24:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2024-12-31 11:13:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/nether_brick": {
-    "criteria": {
-      "has_netherrack": "2024-12-31 11:53:30 +0000"
     },
     "done": true
   },
