@@ -4614,3 +4614,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [31Dec2024 16:19:28.591] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Thedoctor12
 [31Dec2024 16:19:28.591] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Thedoctor12
 [31Dec2024 16:22:20.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 has made the advancement [Ashes 'n Bones]
+[31Dec2024 16:24:01.735] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 16:24:01.744] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 16:26:58.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Set own game mode to Survival Mode]
+[31Dec2024 16:29:01.728] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 16:29:01.736] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 16:31:22.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Applied enchantment Mending to Thedoctor12's item]
+[31Dec2024 16:32:12.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Applied enchantment Efficiency III to Thedoctor12's item]
+[31Dec2024 16:32:29.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Applied enchantment Mending to Thedoctor12's item]

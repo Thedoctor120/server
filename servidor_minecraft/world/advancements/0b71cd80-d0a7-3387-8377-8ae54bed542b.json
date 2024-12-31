@@ -2979,57 +2979,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/magma_block": {
+  "minecraft:nether/find_bastion": {
     "criteria": {
-      "has_magma_cream": "2024-12-31 15:55:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
-    "criteria": {
-      "has_gold_block": "2024-12-31 15:53:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
-    "criteria": {
-      "has_netherite_upgrade_smithing_template": "2024-12-31 15:52:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
-    "criteria": {
-      "has_ancient_debris": "2024-12-31 15:52:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_chestplate": "2024-12-31 15:52:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_scrap": {
-    "criteria": {
-      "has_ancient_debris": "2024-12-31 15:52:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_ingot": {
-    "criteria": {
-      "has_netherite_scrap": "2024-12-31 16:01:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_ancient_debris": {
-    "criteria": {
-      "ancient_debris": "2024-12-31 15:52:58 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/chain_death": {
-    "criteria": {
-      "coded_trigger": "2024-12-31 15:56:24 +0000"
+      "bastion": "2024-12-31 15:50:19 +0000"
     },
     "done": true
   },
@@ -3039,15 +2991,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2024-12-31 15:52:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2024-12-31 15:52:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-31 15:52:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-31 15:52:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-12-31 15:52:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-31 15:53:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-12-31 15:55:54 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/magma_cube": {
     "criteria": {
       "has_magma_cream": "2024-12-31 15:55:54 +0000"
     },
     "done": true
   },
-  "minecraft:nether/find_bastion": {
+  "tombstone:adventure/chain_death": {
     "criteria": {
-      "bastion": "2024-12-31 15:50:19 +0000"
+      "coded_trigger": "2024-12-31 15:56:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2024-12-31 16:01:09 +0000"
     },
     "done": true
   },

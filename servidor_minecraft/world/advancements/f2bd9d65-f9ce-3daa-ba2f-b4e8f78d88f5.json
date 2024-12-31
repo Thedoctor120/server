@@ -2566,9 +2566,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-31 16:25:17 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/bookshelf": {
     "criteria": {
       "has_book": "2024-12-31 16:15:48 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2024-12-31 16:22:20 +0000"
     },
     "done": true
   },
