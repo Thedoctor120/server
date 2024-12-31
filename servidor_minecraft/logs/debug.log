@@ -4634,3 +4634,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [31Dec2024 16:39:33.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Applied enchantment Mending to Thedoctor12's item]
 [31Dec2024 16:39:41.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 has reached the goal [Bone Crusher]
 [31Dec2024 16:40:08.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Set own game mode to Survival Mode]
+[31Dec2024 16:44:01.725] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 16:44:01.732] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 16:47:23.541] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nuclator247 lost connection: Disconnected
+[31Dec2024 16:47:23.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 left the game
+[31Dec2024 16:47:23.543] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Nuclator247
+[31Dec2024 16:47:23.543] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Nuclator247
+[31Dec2024 16:49:01.719] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 16:49:01.727] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 16:49:42.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Applied enchantment Mending to Thedoctor12's item]
+[31Dec2024 16:50:16.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Applied enchantment Unbreaking III to Thedoctor12's item]
+[31Dec2024 16:52:43.733] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/13952, l='ServerLevel[world]', x=-816.31, y=-256.00, z=799.90] died, message: 'Unemployed was killed'
