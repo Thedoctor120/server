@@ -2801,57 +2801,9 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/misc/yellow_dye_from_goldenrod": {
-    "criteria": {
-      "has_goldenrod": "2024-12-30 18:42:03 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/ash_to_charcoal": {
-    "criteria": {
-      "has_item": "2024-12-30 18:40:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/book": {
-    "criteria": {
-      "has_paper": "2024-12-30 18:21:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_the_recipe": "2024-12-30 18:54:02 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/ghost_chest": {
-    "criteria": {
-      "has_item": "2024-12-30 18:26:40 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/food/ambrosia": {
-    "criteria": {
-      "has_item": "2024-12-30 18:45:15 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/create_familiar_receptacle": {
     "criteria": {
       "has_receptacle_of_familiar": "2024-12-30 17:09:59 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/jar_pixie": {
-    "criteria": {
-      "jar": "2024-12-30 18:49:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2024-12-30 18:35:41 +0000"
     },
     "done": true
   },
@@ -2873,9 +2825,15 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/graveyard_soil": {
+  "minecraft:recipes/misc/nether_brick": {
     "criteria": {
-      "has_item": "2024-12-30 18:26:40 +0000"
+      "has_netherrack": "2024-12-30 17:45:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-12-30 18:21:39 +0000"
     },
     "done": true
   },
@@ -2891,15 +2849,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/mushroom_stew": {
+  "iceandfire:recipes/misc/ghost_chest": {
     "criteria": {
-      "has_bowl": "2024-12-30 18:54:02 +0000"
+      "has_item": "2024-12-30 18:26:40 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/nether_brick": {
+  "iceandfire:recipes/building_blocks/graveyard_soil": {
     "criteria": {
-      "has_netherrack": "2024-12-30 17:45:48 +0000"
+      "has_item": "2024-12-30 18:26:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-30 18:35:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ash_to_charcoal": {
+    "criteria": {
+      "has_item": "2024-12-30 18:40:25 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/yellow_dye_from_goldenrod": {
+    "criteria": {
+      "has_goldenrod": "2024-12-30 18:42:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/ambrosia": {
+    "criteria": {
+      "has_item": "2024-12-30 18:45:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/jar_pixie": {
+    "criteria": {
+      "jar": "2024-12-30 18:49:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_the_recipe": "2024-12-30 18:54:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2024-12-30 18:54:02 +0000"
     },
     "done": true
   },
