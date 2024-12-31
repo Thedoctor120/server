@@ -276,3 +276,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [31Dec2024 10:15:19.729] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Nuclator247 (18)
 [31Dec2024 10:15:19.730] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nuclator247
 [31Dec2024 10:22:28.324] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/2361, l='ServerLevel[world]', x=-816.31, y=-256.00, z=799.90] died, message: 'Unemployed was killed'
+[31Dec2024 10:28:08.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 has made the advancement [A Flaming Sword]
+[31Dec2024 10:30:13.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 has made the advancement [Splintering II]
