@@ -293,3 +293,33 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [31Dec2024 15:52:52.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 has made the advancement [War Pigs]
 [31Dec2024 15:52:55.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 has made the advancement [Cover Me with Diamonds]
 [31Dec2024 15:52:58.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 has made the advancement [Hidden in the Depths]
+[31Dec2024 15:55:38.742] [Server thread/WARN] [tombstone/]: The death event of the player Thedoctor12 was canceled by another mod
+[31Dec2024 15:55:38.745] [Server thread/INFO] [tombstone/]: The player Thedoctor12 has successfully been saved
+[31Dec2024 15:55:44.775] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Thedoctor12 with unique ID 28f603c1-aba7-4407-8b6c-31743a57104e
+[31Dec2024 15:55:44.776] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -144 Y: 36 Z: 223
+[31Dec2024 15:55:44.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 burned to death
+[31Dec2024 15:56:20.346] [Server thread/WARN] [tombstone/]: The death event of the player Thedoctor12 was canceled by another mod
+[31Dec2024 15:56:20.349] [Server thread/INFO] [tombstone/]: The player Thedoctor12 has successfully been saved
+[31Dec2024 15:56:24.353] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Thedoctor12 with unique ID 3e7a709a-698e-40fe-bbfe-c4cbf2783a42
+[31Dec2024 15:56:24.354] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -144 Y: 34 Z: 220
+[31Dec2024 15:56:24.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 has reached the goal [Chain Death]
+[31Dec2024 15:56:24.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 tried to swim in lava
+[31Dec2024 15:56:24.364] [Server thread/INFO] [tombstone/]: The player Thedoctor12 has successfully been saved
+[31Dec2024 15:57:35.398] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nuclator247 lost connection: Disconnected
+[31Dec2024 15:57:35.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 left the game
+[31Dec2024 15:57:35.403] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Nuclator247
+[31Dec2024 15:57:35.464] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[31Dec2024 15:58:03.292] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1d5bd672[id=<null>,name=Nuclator247,properties={},legacy=false] (/127.226.225.179:51271) lost connection: Disconnected
+[31Dec2024 15:59:04.440] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7ba26e55[id=<null>,name=Nuclator247,properties={},legacy=false] (/127.226.225.179:33013) lost connection: Disconnected
+[31Dec2024 15:59:40.288] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7fd2a624[id=<null>,name=Nuclator247,properties={},legacy=false] (/127.226.225.179:39351) lost connection: Disconnected
+[31Dec2024 15:59:49.388] [Server thread/WARN] [tombstone/]: The death event of the player Thedoctor12 was canceled by another mod
+[31Dec2024 15:59:49.393] [Server thread/INFO] [tombstone/]: The player Thedoctor12 has successfully been saved
+[31Dec2024 15:59:56.128] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nuclator247[/127.226.225.179:46785] logged in with entity id 5286 at (-865.8070343051955, 33.0, 902.6685000649733)
+[31Dec2024 15:59:56.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 joined the game
+[31Dec2024 15:59:56.148] [Server thread/INFO] [Jade/]: Syncing config to Nuclator247 (f2bd9d65-f9ce-3daa-ba2f-b4e8f78d88f5)
+[31Dec2024 15:59:56.562] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Nuclator247 (18)
+[31Dec2024 15:59:56.563] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nuclator247
+[31Dec2024 15:59:56.745] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Thedoctor12 with unique ID 3f23cc70-8afe-41a9-8030-2cc097b987b6
+[31Dec2024 15:59:56.745] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -151 Y: 77 Z: 261
+[31Dec2024 15:59:56.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 was slain by Piglin
+[31Dec2024 16:02:04.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 has made the advancement [Enchanter]

@@ -45,10 +45,13 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-20 15:41:41 +0000",
+      "minecraft:magma_cube": "2024-12-31 15:52:41 +0000",
       "minecraft:spider": "2024-12-20 15:23:17 +0000",
+      "minecraft:piglin_brute": "2024-12-31 15:50:40 +0000",
       "minecraft:creeper": "2024-12-20 15:40:35 +0000",
       "minecraft:zombified_piglin": "2024-12-31 12:29:28 +0000",
       "minecraft:husk": "2024-12-18 18:07:12 +0000",
+      "minecraft:piglin": "2024-12-31 15:52:07 +0000",
       "minecraft:enderman": "2024-12-30 17:30:48 +0000",
       "minecraft:zombie": "2024-12-20 16:26:40 +0000",
       "minecraft:zombie_villager": "2024-12-30 14:28:59 +0000"
@@ -2973,6 +2976,72 @@
   "minecraft:husbandry/froglights": {
     "criteria": {
       "froglights": "2024-12-31 11:24:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-12-31 15:55:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-31 15:53:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2024-12-31 15:52:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-31 15:52:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2024-12-31 15:52:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-31 15:52:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-12-31 15:52:58 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2024-12-31 15:56:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_treasure": "2024-12-31 15:52:52 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/magma_cube": {
+    "criteria": {
+      "has_magma_cream": "2024-12-31 15:55:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-12-31 15:50:19 +0000"
     },
     "done": true
   },
