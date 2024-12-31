@@ -267,3 +267,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [31Dec2024 14:55:52.203] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Thedoctor12 (18)
 [31Dec2024 14:55:52.204] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Thedoctor12
 [31Dec2024 14:57:55.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Set own game mode to Survival Mode]
+[31Dec2024 15:12:28.356] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nuclator247[/127.226.225.179:43817] logged in with entity id 2808 at (-129.6137362298144, 45.0, 105.30000001192093)
+[31Dec2024 15:12:28.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 joined the game
+[31Dec2024 15:12:28.421] [Server thread/INFO] [Jade/]: Syncing config to Nuclator247 (f2bd9d65-f9ce-3daa-ba2f-b4e8f78d88f5)
+[31Dec2024 15:12:30.914] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Nuclator247 (18)
+[31Dec2024 15:12:30.915] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nuclator247
+[31Dec2024 15:15:31.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Set own game mode to Creative Mode]
+[31Dec2024 15:16:24.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Set own game mode to Survival Mode]
+[31Dec2024 15:19:36.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 has made the advancement [What a Deal!]
+[31Dec2024 15:22:37.039] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Thedoctor12 lost connection: Disconnected
+[31Dec2024 15:22:37.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 left the game
+[31Dec2024 15:22:37.045] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Thedoctor12
