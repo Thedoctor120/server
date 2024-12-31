@@ -290,3 +290,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [31Dec2024 11:03:00.729] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Nuclator247 (18)
 [31Dec2024 11:03:00.730] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nuclator247
 [31Dec2024 11:05:53.321] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/11104, l='ServerLevel[world]', x=-816.31, y=-256.00, z=799.90] died, message: 'Unemployed was killed'
+[31Dec2024 11:24:27.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 has completed the challenge [With Our Powers Combined!]
+[31Dec2024 11:24:45.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 has completed the challenge [With Our Powers Combined!]
+[31Dec2024 11:25:13.456] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nuclator247 moved too quickly! 0.6234683298930577,0.0,-10.06992282212309
+[31Dec2024 11:26:44.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Set own game mode to Survival Mode]
+[31Dec2024 11:33:20.331] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Thedoctor12 lost connection: Disconnected
+[31Dec2024 11:33:20.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 left the game
+[31Dec2024 11:33:20.333] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Thedoctor12
