@@ -76,6 +76,7 @@
       "scrubland": "2024-12-20 16:10:06 +0000",
       "erupting_inferno": "2024-12-30 17:49:26 +0000",
       "old_growth_woodland": "2024-12-20 15:49:19 +0000",
+      "field": "2024-12-31 16:57:46 +0000",
       "mediterranean_forest": "2024-12-20 15:43:35 +0000",
       "wasteland": "2024-12-20 15:34:35 +0000",
       "lush_desert": "2024-12-20 15:24:03 +0000",
@@ -3060,6 +3061,12 @@
   "minecraft:recipes/combat/netherite_sword_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-31 16:41:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonarmor": {
+    "criteria": {
+      "iron": "2024-12-31 16:58:42 +0000"
     },
     "done": true
   },

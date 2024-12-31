@@ -4645,3 +4645,19 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [31Dec2024 16:49:42.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Applied enchantment Mending to Thedoctor12's item]
 [31Dec2024 16:50:16.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Applied enchantment Unbreaking III to Thedoctor12's item]
 [31Dec2024 16:52:43.733] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/13952, l='ServerLevel[world]', x=-816.31, y=-256.00, z=799.90] died, message: 'Unemployed was killed'
+[31Dec2024 16:54:01.727] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 16:54:01.735] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 16:56:38.336] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element iceandfire:graveyard took 0 ms
+[31Dec2024 16:56:43.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Teleported Thedoctor12 to -847.500000, 35.000000, 624.500000]
+[31Dec2024 16:57:05.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Set own game mode to Spectator Mode]
+[31Dec2024 16:57:36.554] [Worker-Main-54/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[31Dec2024 16:57:36.569] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element iceandfire:mausoleum took 1099 ms
+[31Dec2024 16:57:45.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Teleported Thedoctor12 to 1248.500000, 75.119333, 2640.500000]
+[31Dec2024 16:57:45.202] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4320ms or 86 ticks behind
+[31Dec2024 16:58:16.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Set own game mode to Creative Mode]
+[31Dec2024 16:58:42.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 has made the advancement [Suit Up]
+[31Dec2024 16:59:06.031] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 16:59:06.039] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 16:59:56.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 has made the advancement [The Song of the Dragons]
+[31Dec2024 17:01:57.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 has reached the goal [You Need a Mint]
+[31Dec2024 17:03:54.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Set own game mode to Survival Mode]
