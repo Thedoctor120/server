@@ -339,3 +339,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [31Dec2024 16:13:27.890] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Thedoctor12 lost connection: Timed out
 [31Dec2024 16:13:27.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 left the game
 [31Dec2024 16:13:27.892] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Thedoctor12
+[31Dec2024 16:19:17.590] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@36e17705[id=<null>,name=Thedoctor12,properties={},legacy=false] (/127.120.38.123:48493) lost connection: Disconnected
+[31Dec2024 16:19:26.702] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Thedoctor12[/127.120.38.123:38853] logged in with entity id 9133 at (-854.1823246618703, 38.0, 854.3991497244275)
+[31Dec2024 16:19:26.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 joined the game
+[31Dec2024 16:19:26.776] [Server thread/INFO] [Jade/]: Syncing config to Thedoctor12 (0b71cd80-d0a7-3387-8377-8ae54bed542b)
+[31Dec2024 16:19:28.590] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Thedoctor12 (18)
+[31Dec2024 16:19:28.591] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Thedoctor12
+[31Dec2024 16:22:20.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 has made the advancement [Ashes 'n Bones]
