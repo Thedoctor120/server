@@ -297,3 +297,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [31Dec2024 11:33:20.331] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Thedoctor12 lost connection: Disconnected
 [31Dec2024 11:33:20.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 left the game
 [31Dec2024 11:33:20.333] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Thedoctor12
+[31Dec2024 11:59:15.521] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Thedoctor12[/127.120.38.123:39631] logged in with entity id 19688 at (-878.7535720585706, 31.0, 917.8384254026722)
+[31Dec2024 11:59:15.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 joined the game
+[31Dec2024 11:59:15.587] [Server thread/INFO] [Jade/]: Syncing config to Thedoctor12 (0b71cd80-d0a7-3387-8377-8ae54bed542b)
+[31Dec2024 11:59:15.985] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Thedoctor12 (18)
+[31Dec2024 11:59:15.987] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Thedoctor12
+[31Dec2024 12:02:29.122] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/20131, l='ServerLevel[world]', x=-873.46, y=-256.00, z=887.17] died, message: 'Unemployed was killed'
