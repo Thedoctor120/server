@@ -278,3 +278,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [31Dec2024 10:22:28.324] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/2361, l='ServerLevel[world]', x=-816.31, y=-256.00, z=799.90] died, message: 'Unemployed was killed'
 [31Dec2024 10:28:08.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 has made the advancement [A Flaming Sword]
 [31Dec2024 10:30:13.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 has made the advancement [Splintering II]
+[31Dec2024 10:45:25.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Gave 50 [Leather] to Thedoctor12]
+[31Dec2024 10:47:22.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Gave 1 [Soul Lantern] to Thedoctor12]
+[31Dec2024 10:52:24.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Set own game mode to Creative Mode]
