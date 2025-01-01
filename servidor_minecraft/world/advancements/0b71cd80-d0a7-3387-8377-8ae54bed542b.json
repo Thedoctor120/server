@@ -3052,6 +3052,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2024-12-31 16:36:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-31 16:41:37 +0000"
@@ -3061,12 +3067,6 @@
   "minecraft:recipes/combat/netherite_sword_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-31 16:41:37 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragonarmor": {
-    "criteria": {
-      "iron": "2024-12-31 16:58:42 +0000"
     },
     "done": true
   },
@@ -3118,12 +3118,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/bone_crusher": {
-    "criteria": {
-      "coded_trigger": "2024-12-31 16:36:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/netherite_axe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-31 16:41:37 +0000"
@@ -3139,6 +3133,96 @@
   "minecraft:recipes/tools/netherite_pickaxe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-31 16:41:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonarmor": {
+    "criteria": {
+      "iron": "2024-12-31 16:58:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone": {
+    "criteria": {
+      "has_item": "2024-12-31 16:59:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_torch": {
+    "criteria": {
+      "has_item": "2024-12-31 16:59:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_ice": {
+    "criteria": {
+      "has_item": "2024-12-31 16:59:38 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2024-12-31 16:59:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2024-12-31 16:59:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/forest_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2024-12-31 16:59:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_flute": {
+    "criteria": {
+      "bestiary": "2024-12-31 16:59:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
+    "criteria": {
+      "has_sapphire_gem": "2024-12-31 16:59:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2024-12-31 17:01:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonbone": {
+    "criteria": {
+      "has_dragon_bone_block": "2024-12-31 17:04:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_input": {
+    "criteria": {
+      "has_item": "2024-12-31 17:04:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_forge_brick": {
+    "criteria": {
+      "forge": "2024-12-31 17:04:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_core_disabled": {
+    "criteria": {
+      "has_item": "2024-12-31 17:04:23 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/diamond_smithing": {
+    "criteria": {
+      "has_diamond": "2025-01-01 20:21:06 +0000"
     },
     "done": true
   },

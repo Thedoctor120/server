@@ -1,92 +1,92 @@
-[31Dec2024 15:43:12.144] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
-[31Dec2024 15:43:12.148] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.5 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
-[31Dec2024 15:43:13.569] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[31Dec2024 15:43:13.588] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
-[31Dec2024 15:43:13.589] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/workspaces/server/servidor_minecraft/mods/OptiFine-1.20.1_HD_U_I6_pre6.jar%23131!/
-[31Dec2024 15:43:13.604] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: /workspaces/server/servidor_minecraft/mods/OptiFine-1.20.1_HD_U_I6_pre6.jar
-[31Dec2024 15:43:13.615] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
-[31Dec2024 15:43:13.731] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/server/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[31Dec2024 15:43:13.745] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
-[31Dec2024 15:43:14.129] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[31Dec2024 15:43:14.133] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[31Dec2024 15:43:14.134] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[31Dec2024 15:43:14.136] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[31Dec2024 15:43:14.474] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[31Dec2024 15:43:14.475] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 4 dependencies adding them to mods collection
-[31Dec2024 15:43:15.275] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
-[31Dec2024 15:43:15.289] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 412
-[31Dec2024 15:43:16.158] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
-[31Dec2024 15:43:17.154] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[31Dec2024 15:43:17.270] [main/ERROR] [mixin/]: Mixin config furniture-common.mixins.json does not specify "minVersion" property
-[31Dec2024 15:43:17.303] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[31Dec2024 15:43:17.788] [main/WARN] [mixin/]: Error loading class: tfar/davespotioneering/blockentity/AdvancedBrewingStandBlockEntity (java.lang.ClassNotFoundException: tfar.davespotioneering.blockentity.AdvancedBrewingStandBlockEntity)
-[31Dec2024 15:43:17.788] [main/WARN] [mixin/]: @Mixin target tfar.davespotioneering.blockentity.AdvancedBrewingStandBlockEntity was not found itemproductionlib.mixins.json:davespotioneering/AdvancedBrewingStandBlockEntityMixin
-[31Dec2024 15:43:17.789] [main/WARN] [mixin/]: Error loading class: vectorwing/farmersdelight/common/block/entity/CookingPotBlockEntity (java.lang.ClassNotFoundException: vectorwing.farmersdelight.common.block.entity.CookingPotBlockEntity)
-[31Dec2024 15:43:17.789] [main/WARN] [mixin/]: @Mixin target vectorwing.farmersdelight.common.block.entity.CookingPotBlockEntity was not found itemproductionlib.mixins.json:farmersdelight/CookingPotBlockEntityMixin
-[31Dec2024 15:43:17.790] [main/WARN] [mixin/]: Error loading class: vectorwing/farmersdelight/common/block/entity/StoveBlockEntity (java.lang.ClassNotFoundException: vectorwing.farmersdelight.common.block.entity.StoveBlockEntity)
-[31Dec2024 15:43:17.790] [main/WARN] [mixin/]: @Mixin target vectorwing.farmersdelight.common.block.entity.StoveBlockEntity was not found itemproductionlib.mixins.json:farmersdelight/StoveBlockEntityMixin
-[31Dec2024 15:43:17.791] [main/WARN] [mixin/]: Error loading class: fuzs/visualworkbench/world/inventory/ModCraftingMenu (java.lang.ClassNotFoundException: fuzs.visualworkbench.world.inventory.ModCraftingMenu)
-[31Dec2024 15:43:17.791] [main/WARN] [mixin/]: @Mixin target fuzs.visualworkbench.world.inventory.ModCraftingMenu was not found itemproductionlib.mixins.json:visualworkbench/ModCraftingMenuMixin
-[31Dec2024 15:43:17.948] [main/WARN] [mixin/]: Error loading class: fuzs/easymagic/world/inventory/ModEnchantmentMenu (java.lang.ClassNotFoundException: fuzs.easymagic.world.inventory.ModEnchantmentMenu)
-[31Dec2024 15:43:17.948] [main/WARN] [mixin/]: @Mixin target fuzs.easymagic.world.inventory.ModEnchantmentMenu was not found skilltree.mixins.json:easymagic/ModEnchantmentMenuMixin
-[31Dec2024 15:43:17.949] [main/WARN] [mixin/]: Error loading class: dev/shadowsoffire/apotheosis/ench/table/ApothEnchantmentMenu (java.lang.ClassNotFoundException: dev.shadowsoffire.apotheosis.ench.table.ApothEnchantmentMenu)
-[31Dec2024 15:43:17.950] [main/WARN] [mixin/]: @Mixin target dev.shadowsoffire.apotheosis.ench.table.ApothEnchantmentMenu was not found skilltree.mixins.json:apotheosis/ApothEnchantContainerMixin
-[31Dec2024 15:43:17.951] [main/WARN] [mixin/]: Error loading class: dev/shadowsoffire/apotheosis/adventure/socket/SocketingRecipe (java.lang.ClassNotFoundException: dev.shadowsoffire.apotheosis.adventure.socket.SocketingRecipe)
-[31Dec2024 15:43:17.951] [main/WARN] [mixin/]: @Mixin target dev.shadowsoffire.apotheosis.adventure.socket.SocketingRecipe was not found skilltree.mixins.json:apotheosis/SocketingRecipeMixin
-[31Dec2024 15:43:17.952] [main/WARN] [mixin/]: Error loading class: dev/shadowsoffire/apotheosis/adventure/socket/gem/bonus/AttributeBonus (java.lang.ClassNotFoundException: dev.shadowsoffire.apotheosis.adventure.socket.gem.bonus.AttributeBonus)
-[31Dec2024 15:43:17.952] [main/WARN] [mixin/]: @Mixin target dev.shadowsoffire.apotheosis.adventure.socket.gem.bonus.AttributeBonus was not found skilltree.mixins.json:apotheosis/AttributeBonusMixin
-[31Dec2024 15:43:17.953] [main/WARN] [mixin/]: Error loading class: dev/shadowsoffire/apotheosis/adventure/socket/gem/bonus/EnchantmentBonus (java.lang.ClassNotFoundException: dev.shadowsoffire.apotheosis.adventure.socket.gem.bonus.EnchantmentBonus)
-[31Dec2024 15:43:17.955] [main/WARN] [mixin/]: @Mixin target dev.shadowsoffire.apotheosis.adventure.socket.gem.bonus.EnchantmentBonus was not found skilltree.mixins.json:apotheosis/EnchantmentBonusMixin
-[31Dec2024 15:43:18.778] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
-[31Dec2024 15:43:18.779] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
-[31Dec2024 15:43:18.779] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found relics.mixins.json:ScreenMixin
-[31Dec2024 15:43:19.062] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.2).
-[31Dec2024 15:43:28.260] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[31Dec2024 15:43:28.444] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[31Dec2024 15:43:28.457] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[31Dec2024 15:43:31.850] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
-[31Dec2024 15:43:31.868] [modloading-worker-0/INFO] [studio.lunareclipse.watching.Init/]: From The Fog Loaded Successfully!
-[31Dec2024 15:43:32.041] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
-[31Dec2024 15:43:32.052] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
-[31Dec2024 15:43:32.052] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
-[31Dec2024 15:43:32.052] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
-[31Dec2024 15:43:32.449] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
-[31Dec2024 15:43:32.988] [main/INFO] [journeymap/]: Initializing Packet Registries
-[31Dec2024 15:43:33.006] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: AHEAD Current: 1.20.1-2.5.27 Target: null
-[31Dec2024 15:43:33.007] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [attributefix] Starting version check at https://updates.blamejared.com/get?n=attributefix&gv=1.20.1
-[31Dec2024 15:43:33.042] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
-[31Dec2024 15:43:33.043] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
-[31Dec2024 15:43:33.043] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
-[31Dec2024 15:43:33.043] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
-[31Dec2024 15:43:33.047] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[31Dec2024 15:43:33.047] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[31Dec2024 15:43:33.047] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
-[31Dec2024 15:43:33.047] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
-[31Dec2024 15:43:33.048] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
-[31Dec2024 15:43:33.048] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[31Dec2024 15:43:33.048] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[31Dec2024 15:43:33.101] [modloading-worker-0/INFO] [AttributeFix/]: Loaded values for 24 compatible attributes.
-[31Dec2024 15:43:33.105] [modloading-worker-0/INFO] [AttributeFix/]: Loaded 24 values from config.
-[31Dec2024 15:43:33.123] [modloading-worker-0/INFO] [AttributeFix/]: Saving config file. 24 entries.
-[31Dec2024 15:43:33.124] [modloading-worker-0/INFO] [AttributeFix/]: Applying changes for 24 attributes.
-[31Dec2024 15:43:33.156] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[31Dec2024 15:43:33.173] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [attributefix] Found status: BETA Current: 21.0.4 Target: 21.0.4
-[31Dec2024 15:43:33.173] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[31Dec2024 15:43:33.195] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[31Dec2024 15:43:33.207] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[31Dec2024 15:43:33.209] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
-[31Dec2024 15:43:33.210] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
-[31Dec2024 15:43:33.501] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: OUTDATED Current: 5.10.2 Target: 5.10.3
-[31Dec2024 15:43:33.501] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[31Dec2024 15:43:33.550] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: OUTDATED Current: 9.1.14 Target: 9.1.16
-[31Dec2024 15:43:33.551] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[31Dec2024 15:43:33.587] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.8.6 Target: null
-[31Dec2024 15:43:33.587] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[31Dec2024 15:43:33.764] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.22
-[31Dec2024 15:43:36.556] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[31Dec2024 15:43:39.140] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23163!/assets/.mcassetsroot' uses unexpected schema
-[31Dec2024 15:43:39.140] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23163!/data/.mcassetsroot' uses unexpected schema
-[31Dec2024 15:43:40.640] [Worker-Main-2/ERROR] [net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener/]: Couldn't parse data file redeco:blocks/oak_sword_mount from redeco:loot_tables/blocks/oak_sword_mount.json
+[01Jan2025 20:16:41.916] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[01Jan2025 20:16:41.922] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.5 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[01Jan2025 20:16:42.738] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[01Jan2025 20:16:42.749] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
+[01Jan2025 20:16:42.749] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/workspaces/server/servidor_minecraft/mods/OptiFine-1.20.1_HD_U_I6_pre6.jar%23131!/
+[01Jan2025 20:16:42.754] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: /workspaces/server/servidor_minecraft/mods/OptiFine-1.20.1_HD_U_I6_pre6.jar
+[01Jan2025 20:16:42.755] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
+[01Jan2025 20:16:42.809] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/server/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[01Jan2025 20:16:42.818] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
+[01Jan2025 20:16:43.059] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[01Jan2025 20:16:43.062] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[01Jan2025 20:16:43.063] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[01Jan2025 20:16:43.064] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[01Jan2025 20:16:43.262] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[01Jan2025 20:16:43.263] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 4 dependencies adding them to mods collection
+[01Jan2025 20:16:43.767] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
+[01Jan2025 20:16:43.778] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 412
+[01Jan2025 20:16:44.379] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
+[01Jan2025 20:16:45.047] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[01Jan2025 20:16:45.101] [main/ERROR] [mixin/]: Mixin config furniture-common.mixins.json does not specify "minVersion" property
+[01Jan2025 20:16:45.114] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[01Jan2025 20:16:45.367] [main/WARN] [mixin/]: Error loading class: tfar/davespotioneering/blockentity/AdvancedBrewingStandBlockEntity (java.lang.ClassNotFoundException: tfar.davespotioneering.blockentity.AdvancedBrewingStandBlockEntity)
+[01Jan2025 20:16:45.367] [main/WARN] [mixin/]: @Mixin target tfar.davespotioneering.blockentity.AdvancedBrewingStandBlockEntity was not found itemproductionlib.mixins.json:davespotioneering/AdvancedBrewingStandBlockEntityMixin
+[01Jan2025 20:16:45.368] [main/WARN] [mixin/]: Error loading class: vectorwing/farmersdelight/common/block/entity/CookingPotBlockEntity (java.lang.ClassNotFoundException: vectorwing.farmersdelight.common.block.entity.CookingPotBlockEntity)
+[01Jan2025 20:16:45.369] [main/WARN] [mixin/]: @Mixin target vectorwing.farmersdelight.common.block.entity.CookingPotBlockEntity was not found itemproductionlib.mixins.json:farmersdelight/CookingPotBlockEntityMixin
+[01Jan2025 20:16:45.370] [main/WARN] [mixin/]: Error loading class: vectorwing/farmersdelight/common/block/entity/StoveBlockEntity (java.lang.ClassNotFoundException: vectorwing.farmersdelight.common.block.entity.StoveBlockEntity)
+[01Jan2025 20:16:45.371] [main/WARN] [mixin/]: @Mixin target vectorwing.farmersdelight.common.block.entity.StoveBlockEntity was not found itemproductionlib.mixins.json:farmersdelight/StoveBlockEntityMixin
+[01Jan2025 20:16:45.373] [main/WARN] [mixin/]: Error loading class: fuzs/visualworkbench/world/inventory/ModCraftingMenu (java.lang.ClassNotFoundException: fuzs.visualworkbench.world.inventory.ModCraftingMenu)
+[01Jan2025 20:16:45.373] [main/WARN] [mixin/]: @Mixin target fuzs.visualworkbench.world.inventory.ModCraftingMenu was not found itemproductionlib.mixins.json:visualworkbench/ModCraftingMenuMixin
+[01Jan2025 20:16:45.474] [main/WARN] [mixin/]: Error loading class: fuzs/easymagic/world/inventory/ModEnchantmentMenu (java.lang.ClassNotFoundException: fuzs.easymagic.world.inventory.ModEnchantmentMenu)
+[01Jan2025 20:16:45.475] [main/WARN] [mixin/]: @Mixin target fuzs.easymagic.world.inventory.ModEnchantmentMenu was not found skilltree.mixins.json:easymagic/ModEnchantmentMenuMixin
+[01Jan2025 20:16:45.476] [main/WARN] [mixin/]: Error loading class: dev/shadowsoffire/apotheosis/ench/table/ApothEnchantmentMenu (java.lang.ClassNotFoundException: dev.shadowsoffire.apotheosis.ench.table.ApothEnchantmentMenu)
+[01Jan2025 20:16:45.476] [main/WARN] [mixin/]: @Mixin target dev.shadowsoffire.apotheosis.ench.table.ApothEnchantmentMenu was not found skilltree.mixins.json:apotheosis/ApothEnchantContainerMixin
+[01Jan2025 20:16:45.477] [main/WARN] [mixin/]: Error loading class: dev/shadowsoffire/apotheosis/adventure/socket/SocketingRecipe (java.lang.ClassNotFoundException: dev.shadowsoffire.apotheosis.adventure.socket.SocketingRecipe)
+[01Jan2025 20:16:45.478] [main/WARN] [mixin/]: @Mixin target dev.shadowsoffire.apotheosis.adventure.socket.SocketingRecipe was not found skilltree.mixins.json:apotheosis/SocketingRecipeMixin
+[01Jan2025 20:16:45.479] [main/WARN] [mixin/]: Error loading class: dev/shadowsoffire/apotheosis/adventure/socket/gem/bonus/AttributeBonus (java.lang.ClassNotFoundException: dev.shadowsoffire.apotheosis.adventure.socket.gem.bonus.AttributeBonus)
+[01Jan2025 20:16:45.479] [main/WARN] [mixin/]: @Mixin target dev.shadowsoffire.apotheosis.adventure.socket.gem.bonus.AttributeBonus was not found skilltree.mixins.json:apotheosis/AttributeBonusMixin
+[01Jan2025 20:16:45.480] [main/WARN] [mixin/]: Error loading class: dev/shadowsoffire/apotheosis/adventure/socket/gem/bonus/EnchantmentBonus (java.lang.ClassNotFoundException: dev.shadowsoffire.apotheosis.adventure.socket.gem.bonus.EnchantmentBonus)
+[01Jan2025 20:16:45.480] [main/WARN] [mixin/]: @Mixin target dev.shadowsoffire.apotheosis.adventure.socket.gem.bonus.EnchantmentBonus was not found skilltree.mixins.json:apotheosis/EnchantmentBonusMixin
+[01Jan2025 20:16:46.103] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
+[01Jan2025 20:16:46.103] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
+[01Jan2025 20:16:46.104] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found relics.mixins.json:ScreenMixin
+[01Jan2025 20:16:46.330] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.2).
+[01Jan2025 20:16:53.472] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[01Jan2025 20:16:53.699] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[01Jan2025 20:16:53.703] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[01Jan2025 20:16:56.442] [modloading-worker-0/INFO] [studio.lunareclipse.watching.Init/]: From The Fog Loaded Successfully!
+[01Jan2025 20:16:56.448] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[01Jan2025 20:16:56.549] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[01Jan2025 20:16:56.565] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
+[01Jan2025 20:16:56.570] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[01Jan2025 20:16:56.570] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
+[01Jan2025 20:16:56.898] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[01Jan2025 20:16:57.313] [main/INFO] [journeymap/]: Initializing Packet Registries
+[01Jan2025 20:16:57.351] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[01Jan2025 20:16:57.352] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[01Jan2025 20:16:57.352] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[01Jan2025 20:16:57.353] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[01Jan2025 20:16:57.356] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[01Jan2025 20:16:57.357] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[01Jan2025 20:16:57.357] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[01Jan2025 20:16:57.357] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[01Jan2025 20:16:57.358] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[01Jan2025 20:16:57.358] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[01Jan2025 20:16:57.359] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[01Jan2025 20:16:57.387] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: AHEAD Current: 1.20.1-2.5.27 Target: null
+[01Jan2025 20:16:57.388] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [attributefix] Starting version check at https://updates.blamejared.com/get?n=attributefix&gv=1.20.1
+[01Jan2025 20:16:57.419] [modloading-worker-0/INFO] [AttributeFix/]: Loaded values for 24 compatible attributes.
+[01Jan2025 20:16:57.423] [modloading-worker-0/INFO] [AttributeFix/]: Loaded 24 values from config.
+[01Jan2025 20:16:57.432] [modloading-worker-0/INFO] [AttributeFix/]: Saving config file. 24 entries.
+[01Jan2025 20:16:57.433] [modloading-worker-0/INFO] [AttributeFix/]: Applying changes for 24 attributes.
+[01Jan2025 20:16:57.498] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[01Jan2025 20:16:57.537] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[01Jan2025 20:16:57.543] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[01Jan2025 20:16:57.545] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[01Jan2025 20:16:57.546] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[01Jan2025 20:16:57.569] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [attributefix] Found status: BETA Current: 21.0.4 Target: 21.0.4
+[01Jan2025 20:16:57.569] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[01Jan2025 20:16:57.880] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: OUTDATED Current: 5.10.2 Target: 5.10.3
+[01Jan2025 20:16:57.881] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[01Jan2025 20:16:57.914] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: OUTDATED Current: 9.1.14 Target: 9.1.16
+[01Jan2025 20:16:57.915] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[01Jan2025 20:16:57.937] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.8.6 Target: null
+[01Jan2025 20:16:57.938] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[01Jan2025 20:16:58.106] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.22
+[01Jan2025 20:17:00.685] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[01Jan2025 20:17:02.459] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23163!/assets/.mcassetsroot' uses unexpected schema
+[01Jan2025 20:17:02.459] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23163!/data/.mcassetsroot' uses unexpected schema
+[01Jan2025 20:17:04.177] [Worker-Main-2/ERROR] [net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener/]: Couldn't parse data file redeco:blocks/oak_sword_mount from redeco:loot_tables/blocks/oak_sword_mount.json
 com.google.gson.JsonParseException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 1 path $
 	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:526) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
 	at net.minecraft.util.GsonHelper.m_263475_(GsonHelper.java:531) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
@@ -110,7 +110,7 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 	at com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.jar%2372!/:?]
 	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:524) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
 	... 11 more
-[31Dec2024 15:43:40.937] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:redeco:blocks/soul_terrarium
+[01Jan2025 20:17:04.473] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:redeco:blocks/soul_terrarium
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'redeco:soul_terrarium'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -162,7 +162,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
-[31Dec2024 15:43:41.321] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe redeco:magenta_upholstery
+[01Jan2025 20:17:04.836] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe redeco:magenta_upholstery
 com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -198,8 +198,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangenta_wool'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[31Dec2024 15:43:41.355] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 9 recipes
-[31Dec2024 15:43:41.356] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function watching:check
+[01Jan2025 20:17:04.864] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 9 recipes
+[01Jan2025 20:17:04.864] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function watching:check
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
 	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -215,163 +215,58 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 	at net.minecraft.server.ServerFunctionLibrary.m_214320_(ServerFunctionLibrary.java:83) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
 	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 6 more
-[31Dec2024 15:43:41.484] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2384 advancements
-[31Dec2024 15:43:41.494] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 14 curio slots
-[31Dec2024 15:43:41.500] [main/ERROR] [top.theillusivec4.curios.Curios/]: talisman is not a registered slot type!
-[31Dec2024 15:43:41.501] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[31Dec2024 15:43:43.383] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[31Dec2024 15:43:43.383] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[31Dec2024 15:43:43.383] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[31Dec2024 15:43:43.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[31Dec2024 15:43:43.566] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[31Dec2024 15:43:43.603] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[31Dec2024 15:43:43.727] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[31Dec2024 15:43:43.728] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[31Dec2024 15:43:43.729] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[31Dec2024 15:43:43.730] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[31Dec2024 15:43:43.753] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[31Dec2024 15:43:43.754] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[31Dec2024 15:43:43.755] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[31Dec2024 15:43:43.964] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[31Dec2024 15:43:44.671] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[31Dec2024 15:43:44.673] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[31Dec2024 15:43:45.713] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[31Dec2024 15:43:51.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[31Dec2024 15:43:56.907] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Dec2024 15:43:56.954] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Dec2024 15:43:57.017] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Dec2024 15:43:57.045] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Dec2024 15:43:57.099] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Dec2024 15:43:57.123] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Dec2024 15:43:57.131] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Dec2024 15:43:57.142] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Dec2024 15:43:57.161] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Dec2024 15:43:57.211] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Dec2024 15:43:57.218] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Dec2024 15:43:57.231] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Dec2024 15:43:57.626] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31Dec2024 15:43:58.112] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[31Dec2024 15:43:58.616] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 37%
-[31Dec2024 15:43:59.112] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 86%
-[31Dec2024 15:43:59.254] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7642 ms
-[31Dec2024 15:43:59.255] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (15.510s)! For help, type "help"
-[31Dec2024 15:43:59.303] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[31Dec2024 15:43:59.360] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[31Dec2024 15:43:59.361] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[31Dec2024 15:43:59.363] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[31Dec2024 15:43:59.390] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'properties-wealth.gl.at.ply.gg:2921'
-[31Dec2024 15:43:59.392] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 2921
-[31Dec2024 15:44:18.942] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[31Dec2024 15:44:19.035] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nuclator247[/127.226.225.179:42233] logged in with entity id 344 at (-868.0354243730437, 31.0, 929.9440371658261)
-[31Dec2024 15:44:19.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 joined the game
-[31Dec2024 15:44:19.197] [Server thread/INFO] [Jade/]: Syncing config to Nuclator247 (f2bd9d65-f9ce-3daa-ba2f-b4e8f78d88f5)
-[31Dec2024 15:44:19.584] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Nuclator247 (18)
-[31Dec2024 15:44:19.585] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nuclator247
-[31Dec2024 15:44:21.390] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2359ms or 47 ticks behind
-[31Dec2024 15:44:39.829] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Thedoctor12[/127.120.38.123:44079] logged in with entity id 868 at (-869.8815367390705, 33.0, 902.7569557064278)
-[31Dec2024 15:44:39.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 joined the game
-[31Dec2024 15:44:39.999] [Server thread/INFO] [Jade/]: Syncing config to Thedoctor12 (0b71cd80-d0a7-3387-8377-8ae54bed542b)
-[31Dec2024 15:44:40.113] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Thedoctor12 (18)
-[31Dec2024 15:44:40.114] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Thedoctor12
-[31Dec2024 15:48:05.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Applied enchantment Mending to Thedoctor12's item]
-[31Dec2024 15:49:39.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Teleported Nuclator247 to Thedoctor12]
-[31Dec2024 15:50:17.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 has made the advancement [Those Were the Days]
-[31Dec2024 15:50:19.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 has made the advancement [Those Were the Days]
-[31Dec2024 15:50:23.346] [Server thread/WARN] [tombstone/]: The death event of the player Nuclator247 was canceled by another mod
-[31Dec2024 15:50:23.369] [Server thread/INFO] [tombstone/]: The player Nuclator247 has successfully been saved
-[31Dec2024 15:51:57.432] [Server thread/WARN] [tombstone/]: The death event of the player Nuclator247 was canceled by another mod
-[31Dec2024 15:51:57.442] [Server thread/INFO] [tombstone/]: The player Nuclator247 has successfully been saved
-[31Dec2024 15:52:19.340] [Server thread/WARN] [tombstone/]: The death event of the player Thedoctor12 was canceled by another mod
-[31Dec2024 15:52:19.344] [Server thread/INFO] [tombstone/]: The player Thedoctor12 has successfully been saved
-[31Dec2024 15:52:22.352] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Thedoctor12 with unique ID 326fa7c3-2f26-4c3b-8b7e-e3657b9d5acb
-[31Dec2024 15:52:22.356] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -144 Y: 34 Z: 220
-[31Dec2024 15:52:22.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 tried to swim in lava
-[31Dec2024 15:52:22.370] [Server thread/INFO] [tombstone/]: The player Thedoctor12 has successfully been saved
-[31Dec2024 15:52:27.577] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Nuclator247 with unique ID e4598707-bd1a-4983-911f-79c45cd80941
-[31Dec2024 15:52:27.578] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -144 Y: 36 Z: 225
-[31Dec2024 15:52:27.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 fell from a high place
-[31Dec2024 15:52:52.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 has made the advancement [War Pigs]
-[31Dec2024 15:52:55.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 has made the advancement [Cover Me with Diamonds]
-[31Dec2024 15:52:58.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 has made the advancement [Hidden in the Depths]
-[31Dec2024 15:55:38.742] [Server thread/WARN] [tombstone/]: The death event of the player Thedoctor12 was canceled by another mod
-[31Dec2024 15:55:38.745] [Server thread/INFO] [tombstone/]: The player Thedoctor12 has successfully been saved
-[31Dec2024 15:55:44.775] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Thedoctor12 with unique ID 28f603c1-aba7-4407-8b6c-31743a57104e
-[31Dec2024 15:55:44.776] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -144 Y: 36 Z: 223
-[31Dec2024 15:55:44.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 burned to death
-[31Dec2024 15:56:20.346] [Server thread/WARN] [tombstone/]: The death event of the player Thedoctor12 was canceled by another mod
-[31Dec2024 15:56:20.349] [Server thread/INFO] [tombstone/]: The player Thedoctor12 has successfully been saved
-[31Dec2024 15:56:24.353] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Thedoctor12 with unique ID 3e7a709a-698e-40fe-bbfe-c4cbf2783a42
-[31Dec2024 15:56:24.354] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -144 Y: 34 Z: 220
-[31Dec2024 15:56:24.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 has reached the goal [Chain Death]
-[31Dec2024 15:56:24.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 tried to swim in lava
-[31Dec2024 15:56:24.364] [Server thread/INFO] [tombstone/]: The player Thedoctor12 has successfully been saved
-[31Dec2024 15:57:35.398] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nuclator247 lost connection: Disconnected
-[31Dec2024 15:57:35.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 left the game
-[31Dec2024 15:57:35.403] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Nuclator247
-[31Dec2024 15:57:35.464] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[31Dec2024 15:58:03.292] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1d5bd672[id=<null>,name=Nuclator247,properties={},legacy=false] (/127.226.225.179:51271) lost connection: Disconnected
-[31Dec2024 15:59:04.440] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7ba26e55[id=<null>,name=Nuclator247,properties={},legacy=false] (/127.226.225.179:33013) lost connection: Disconnected
-[31Dec2024 15:59:40.288] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7fd2a624[id=<null>,name=Nuclator247,properties={},legacy=false] (/127.226.225.179:39351) lost connection: Disconnected
-[31Dec2024 15:59:49.388] [Server thread/WARN] [tombstone/]: The death event of the player Thedoctor12 was canceled by another mod
-[31Dec2024 15:59:49.393] [Server thread/INFO] [tombstone/]: The player Thedoctor12 has successfully been saved
-[31Dec2024 15:59:56.128] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nuclator247[/127.226.225.179:46785] logged in with entity id 5286 at (-865.8070343051955, 33.0, 902.6685000649733)
-[31Dec2024 15:59:56.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 joined the game
-[31Dec2024 15:59:56.148] [Server thread/INFO] [Jade/]: Syncing config to Nuclator247 (f2bd9d65-f9ce-3daa-ba2f-b4e8f78d88f5)
-[31Dec2024 15:59:56.562] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Nuclator247 (18)
-[31Dec2024 15:59:56.563] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nuclator247
-[31Dec2024 15:59:56.745] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Thedoctor12 with unique ID 3f23cc70-8afe-41a9-8030-2cc097b987b6
-[31Dec2024 15:59:56.745] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -151 Y: 77 Z: 261
-[31Dec2024 15:59:56.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 was slain by Piglin
-[31Dec2024 16:02:04.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 has made the advancement [Enchanter]
-[31Dec2024 16:04:28.733] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/6943, l='ServerLevel[world]', x=-816.31, y=-256.00, z=799.90] died, message: 'Unemployed was killed'
-[31Dec2024 16:05:28.933] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/7118, l='ServerLevel[world]', x=-871.37, y=-256.00, z=887.07] died, message: 'Unemployed was killed'
-[31Dec2024 16:06:04.350] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nuclator247 moved too quickly! 1.717419301136374,0.7531999805212024,-10.062924200922112
-[31Dec2024 16:06:21.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Set own game mode to Creative Mode]
-[31Dec2024 16:06:32.323] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nuclator247 moved too quickly! -3.4086070082684046,1.0,9.545784171700916
-[31Dec2024 16:07:41.893] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nuclator247 lost connection: Timed out
-[31Dec2024 16:07:41.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 left the game
-[31Dec2024 16:07:41.895] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Nuclator247
-[31Dec2024 16:08:09.603] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nuclator247[/127.226.225.179:48051] logged in with entity id 7680 at (-872.6999999880791, 35.0, 863.3959246714062)
-[31Dec2024 16:08:09.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 joined the game
-[31Dec2024 16:08:09.663] [Server thread/INFO] [Jade/]: Syncing config to Nuclator247 (f2bd9d65-f9ce-3daa-ba2f-b4e8f78d88f5)
-[31Dec2024 16:08:09.845] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Nuclator247 (18)
-[31Dec2024 16:08:09.846] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nuclator247
-[31Dec2024 16:13:27.890] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Thedoctor12 lost connection: Timed out
-[31Dec2024 16:13:27.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 left the game
-[31Dec2024 16:13:27.892] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Thedoctor12
-[31Dec2024 16:19:17.590] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@36e17705[id=<null>,name=Thedoctor12,properties={},legacy=false] (/127.120.38.123:48493) lost connection: Disconnected
-[31Dec2024 16:19:26.702] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Thedoctor12[/127.120.38.123:38853] logged in with entity id 9133 at (-854.1823246618703, 38.0, 854.3991497244275)
-[31Dec2024 16:19:26.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 joined the game
-[31Dec2024 16:19:26.776] [Server thread/INFO] [Jade/]: Syncing config to Thedoctor12 (0b71cd80-d0a7-3387-8377-8ae54bed542b)
-[31Dec2024 16:19:28.590] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Thedoctor12 (18)
-[31Dec2024 16:19:28.591] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Thedoctor12
-[31Dec2024 16:22:20.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 has made the advancement [Ashes 'n Bones]
-[31Dec2024 16:26:58.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Set own game mode to Survival Mode]
-[31Dec2024 16:31:22.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Applied enchantment Mending to Thedoctor12's item]
-[31Dec2024 16:32:12.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Applied enchantment Efficiency III to Thedoctor12's item]
-[31Dec2024 16:32:29.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Applied enchantment Mending to Thedoctor12's item]
-[31Dec2024 16:34:43.733] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/11320, l='ServerLevel[world]', x=-816.31, y=-256.00, z=799.90] died, message: 'Unemployed was killed'
-[31Dec2024 16:35:45.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Applied enchantment Mending to Thedoctor12's item]
-[31Dec2024 16:36:14.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 has reached the goal [Bone Crusher]
-[31Dec2024 16:36:32.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Set own game mode to Creative Mode]
-[31Dec2024 16:38:59.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Teleported Thedoctor12 to Nuclator247]
-[31Dec2024 16:39:33.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Applied enchantment Mending to Thedoctor12's item]
-[31Dec2024 16:39:41.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 has reached the goal [Bone Crusher]
-[31Dec2024 16:40:08.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Set own game mode to Survival Mode]
-[31Dec2024 16:47:23.541] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nuclator247 lost connection: Disconnected
-[31Dec2024 16:47:23.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 left the game
-[31Dec2024 16:47:23.543] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Nuclator247
-[31Dec2024 16:49:42.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Applied enchantment Mending to Thedoctor12's item]
-[31Dec2024 16:50:16.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Applied enchantment Unbreaking III to Thedoctor12's item]
-[31Dec2024 16:52:43.733] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/13952, l='ServerLevel[world]', x=-816.31, y=-256.00, z=799.90] died, message: 'Unemployed was killed'
-[31Dec2024 16:56:38.336] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element iceandfire:graveyard took 0 ms
-[31Dec2024 16:56:43.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Teleported Thedoctor12 to -847.500000, 35.000000, 624.500000]
-[31Dec2024 16:57:05.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Set own game mode to Spectator Mode]
-[31Dec2024 16:57:36.569] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element iceandfire:mausoleum took 1099 ms
-[31Dec2024 16:57:45.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Teleported Thedoctor12 to 1248.500000, 75.119333, 2640.500000]
-[31Dec2024 16:57:45.202] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4320ms or 86 ticks behind
-[31Dec2024 16:58:16.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Set own game mode to Creative Mode]
-[31Dec2024 16:58:42.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 has made the advancement [Suit Up]
-[31Dec2024 16:59:56.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 has made the advancement [The Song of the Dragons]
-[31Dec2024 17:01:57.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 has reached the goal [You Need a Mint]
-[31Dec2024 17:03:54.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Set own game mode to Survival Mode]
+[01Jan2025 20:17:04.983] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2384 advancements
+[01Jan2025 20:17:04.992] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 14 curio slots
+[01Jan2025 20:17:04.997] [main/ERROR] [top.theillusivec4.curios.Curios/]: talisman is not a registered slot type!
+[01Jan2025 20:17:04.998] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[01Jan2025 20:17:06.650] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[01Jan2025 20:17:06.651] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[01Jan2025 20:17:06.651] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[01Jan2025 20:17:06.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[01Jan2025 20:17:06.757] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[01Jan2025 20:17:06.784] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[01Jan2025 20:17:06.891] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01Jan2025 20:17:06.891] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[01Jan2025 20:17:06.894] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01Jan2025 20:17:06.895] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[01Jan2025 20:17:06.914] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[01Jan2025 20:17:06.915] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[01Jan2025 20:17:06.916] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[01Jan2025 20:17:07.062] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[01Jan2025 20:17:07.585] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[01Jan2025 20:17:07.587] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[01Jan2025 20:17:13.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[01Jan2025 20:17:19.125] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jan2025 20:17:19.146] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jan2025 20:17:19.177] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jan2025 20:17:19.199] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jan2025 20:17:19.207] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jan2025 20:17:19.208] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jan2025 20:17:19.208] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jan2025 20:17:19.209] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jan2025 20:17:19.210] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jan2025 20:17:19.211] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jan2025 20:17:19.211] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jan2025 20:17:19.467] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jan2025 20:17:19.967] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 49%
+[01Jan2025 20:17:20.237] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6271 ms
+[01Jan2025 20:17:20.239] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (13.330s)! For help, type "help"
+[01Jan2025 20:17:20.285] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[01Jan2025 20:17:20.316] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[01Jan2025 20:17:20.317] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[01Jan2025 20:17:20.318] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[01Jan2025 20:17:20.328] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'properties-wealth.gl.at.ply.gg:2921'
+[01Jan2025 20:17:20.328] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 2921
+[01Jan2025 20:17:42.686] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[01Jan2025 20:17:42.791] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Thedoctor12[/127.120.38.123:37095] logged in with entity id 350 at (-882.5, 31.0, 916.5)
+[01Jan2025 20:17:42.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 joined the game
+[01Jan2025 20:17:42.916] [Server thread/INFO] [Jade/]: Syncing config to Thedoctor12 (0b71cd80-d0a7-3387-8377-8ae54bed542b)
+[01Jan2025 20:17:45.354] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Thedoctor12 (18)
+[01Jan2025 20:17:45.356] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Thedoctor12
+[01Jan2025 20:17:51.076] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nuclator247[/127.226.225.179:32977] logged in with entity id 887 at (-871.3807866198601, 31.0, 928.3091208540503)
+[01Jan2025 20:17:51.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 joined the game
+[01Jan2025 20:17:51.163] [Server thread/INFO] [Jade/]: Syncing config to Nuclator247 (f2bd9d65-f9ce-3daa-ba2f-b4e8f78d88f5)
+[01Jan2025 20:17:52.936] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Nuclator247 (18)
+[01Jan2025 20:17:52.937] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nuclator247
+[01Jan2025 20:19:47.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Applied enchantment Mending to Thedoctor12's item]
+[01Jan2025 20:20:01.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Applied enchantment Unbreaking III to Thedoctor12's item]
