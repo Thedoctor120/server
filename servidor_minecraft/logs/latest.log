@@ -372,3 +372,311 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jan2025 21:24:04.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Set own game mode to Spectator Mode]
 [01Jan2025 21:24:17.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Teleported Thedoctor12 to AsesiAlex]
 [01Jan2025 21:25:41.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Teleported Nuclator247 to Thedoctor12]
+[01Jan2025 21:27:32.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AsesiAlex has made the advancement [Isn't It Iron Pick]
+[01Jan2025 21:30:17.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Teleported Thedoctor12 to AsesiAlex]
+[01Jan2025 21:34:28.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AsesiAlex> me has robado mis aldenos
+[01Jan2025 21:34:31.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AsesiAlex> ?
+[01Jan2025 21:34:34.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AsesiAlex> aldeanos
+[01Jan2025 21:34:58.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AsesiAlex> gracias
+[01Jan2025 21:35:21.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Teleported Nuclator247 to Thedoctor12]
+[01Jan2025 21:37:53.500] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nuclator247 moved too quickly! -0.04491499210121219,-15.205457744538862,0.03851558469477823
+[01Jan2025 21:38:11.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Teleported Thedoctor12 to Nuclator247]
+[01Jan2025 21:39:07.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AsesiAlex has made the advancement [Diamonds!]
+[01Jan2025 21:39:21.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Teleported Thedoctor12 to AsesiAlex]
+[01Jan2025 21:40:36.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thedoctor12> tan rapido diamantes alex
+[01Jan2025 21:40:51.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AsesiAlex> suerte
+[01Jan2025 21:41:05.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thedoctor12> eso espero
+[01Jan2025 21:41:16.136] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/23723, l='ServerLevel[world]', x=-677.50, y=80.42, z=1220.70] died, message: 'Nitwit was burnt to a crisp whilst fighting Nuclator247'
+[01Jan2025 21:41:51.085] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/23661, l='ServerLevel[world]', x=-672.21, y=81.00, z=1220.27] died, message: 'Cleric was turned into KFC by Nuclator247'
+[01Jan2025 21:41:54.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AsesiAlex has made the advancement [Hot Stuff]
+[01Jan2025 21:44:04.387] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/27612, l='ServerLevel[world]', x=-686.52, y=80.00, z=1216.50] died, message: 'Cartographer was burnt to a crisp whilst fighting Nuclator247'
+[01Jan2025 21:45:02.649] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -1.470388292059397,0.0,-10.096654792897425
+[01Jan2025 21:45:02.650] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -1.2063710569834711,0.0,-11.562051399705297
+[01Jan2025 21:45:02.650] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -0.8042895576165847,0.0,-12.983716637050975
+[01Jan2025 21:45:02.650] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -0.2628396398268933,0.0,-14.33972446443181
+[01Jan2025 21:45:02.667] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! 0.4138571536159361,0.0,-15.611007991940369
+[01Jan2025 21:45:05.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thedoctor12> no uses x ray o te baneo
+[01Jan2025 21:45:12.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AsesiAlex> ok
+[01Jan2025 21:45:34.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AsesiAlex> solo estoy minando humildemente en una cueva
+[01Jan2025 21:45:46.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thedoctor12> en linea recta
+[01Jan2025 21:45:52.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AsesiAlex> no
+[01Jan2025 21:46:02.556] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! 0.0,-10.70930275684782,0.0
+[01Jan2025 21:46:02.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thedoctor12> hacia diamantes
+[01Jan2025 21:46:11.016] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! 0.0,-11.04601587223442,0.0
+[01Jan2025 21:46:11.017] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! 0.0,-12.887018828679459,0.0
+[01Jan2025 21:46:11.017] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! 0.0,-14.728021847571313,0.0
+[01Jan2025 21:46:11.018] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! 0.0,-16.569024921541256,0.0
+[01Jan2025 21:46:11.018] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! 0.0,-18.410028044090097,0.0
+[01Jan2025 21:46:11.018] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! 0.0,-20.251031209485518,0.0
+[01Jan2025 21:46:11.019] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! 0.0,-22.092034412671637,0.0
+[01Jan2025 21:46:11.019] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! 0.0,-23.93303764918909,0.0
+[01Jan2025 21:46:11.019] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! 0.0,-25.77404091510482,0.0
+[01Jan2025 21:46:11.019] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! 0.0,-27.615044206949847,0.0
+[01Jan2025 21:46:11.020] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! 0.0,-29.456047521664516,0.0
+[01Jan2025 21:46:11.020] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! 0.0,-31.297050856550186,0.0
+[01Jan2025 21:46:11.020] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! 0.0,-33.13805420922665,0.0
+[01Jan2025 21:46:11.021] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! 0.0,-34.97905757759463,0.0
+[01Jan2025 21:46:11.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! 0.0,-27.615047973211745,0.0
+[01Jan2025 21:46:11.143] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! 0.0,-29.456051367626458,0.0
+[01Jan2025 21:46:28.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -10.619105053361295,0.0,-3.1344205320976926
+[01Jan2025 21:46:28.645] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -12.219799528627732,0.0,-3.5885843992170976
+[01Jan2025 21:46:44.042] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -3.8727214149880638,0.0,9.449508381721898
+[01Jan2025 21:46:44.043] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -4.131664128164516,0.0,10.201310473184321
+[01Jan2025 21:46:44.043] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -4.360051601186228,0.0,10.864399917854143
+[01Jan2025 21:46:44.043] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -4.561489352391391,0.0,11.449244808052981
+[01Jan2025 21:46:44.044] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -4.739157448954302,0.0,11.96507800120844
+[01Jan2025 21:46:44.044] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -4.895860710122747,0.0,12.420042877571404
+[01Jan2025 21:46:44.044] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -5.0340729864733476,0.0,12.821321898523593
+[01Jan2025 21:46:44.045] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -5.155976214214547,0.0,13.175249995003469
+[01Jan2025 21:46:44.045] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -5.263494861082336,0.0,13.487414576098672
+[01Jan2025 21:47:11.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thedoctor12> quitate los x ray
+[01Jan2025 21:47:15.344] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -10.414441252474035,0.0,1.6403103210891459
+[01Jan2025 21:47:15.345] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -11.154834365244824,0.0,1.75256199284172
+[01Jan2025 21:47:15.362] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -11.80786109070857,0.0,1.8515679673275827
+[01Jan2025 21:47:23.863] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved wrongly! 0.5689696607474843
+[01Jan2025 21:47:23.942] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved wrongly! 1.5212295884213063
+[01Jan2025 21:47:23.993] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved wrongly! 2.0
+[01Jan2025 21:47:28.286] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/27651, l='ServerLevel[world]', x=-728.55, y=66.00, z=1213.30] died, message: 'Cartographer was burnt to a crisp whilst fighting Nuclator247'
+[01Jan2025 21:48:07.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Teleported Thedoctor12 to Nuclator247]
+[01Jan2025 21:48:20.355] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! 5.030523788423352,0.0,-10.557895695381148
+[01Jan2025 21:48:36.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Teleported Thedoctor12 to AsesiAlex]
+[01Jan2025 21:48:46.844] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -9.859874152333305,0.0,-4.619701029448549
+[01Jan2025 21:48:46.853] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -10.555679447401872,0.0,-5.594957977259014
+[01Jan2025 21:49:01.894] [Server thread/WARN] [tombstone/]: The death event of the player AsesiAlex was canceled by another mod
+[01Jan2025 21:49:01.896] [Server thread/INFO] [tombstone/]: The player AsesiAlex has successfully been saved
+[01Jan2025 21:49:11.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AsesiAlex burned to death
+[01Jan2025 21:49:11.901] [Server thread/INFO] [tombstone/]: The player AsesiAlex has successfully been saved
+[01Jan2025 21:49:37.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Teleported Thedoctor12 to AsesiAlex]
+[01Jan2025 21:50:02.859] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved wrongly! 0.2501316478080753
+[01Jan2025 21:50:02.909] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved wrongly! 0.6397413499739741
+[01Jan2025 21:50:02.994] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved wrongly! 0.2851317123190711
+[01Jan2025 21:50:03.007] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved wrongly! 0.29960285335550907
+[01Jan2025 21:50:03.052] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved wrongly! 0.7328461588142545
+[01Jan2025 21:50:03.106] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved wrongly! 1.1773396149467317
+[01Jan2025 21:50:03.159] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved wrongly! 1.5693828432554255
+[01Jan2025 21:50:08.291] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved wrongly! 0.46827363984556314
+[01Jan2025 21:50:08.314] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved wrongly! 1.0300086535176547
+[01Jan2025 21:50:08.375] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved wrongly! 1.667960116440213
+[01Jan2025 21:50:08.411] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved wrongly! 0.698141368994925
+[01Jan2025 21:50:08.474] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved wrongly! 0.7574453486153061
+[01Jan2025 21:50:08.541] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved wrongly! 0.8097514586404486
+[01Jan2025 21:50:08.591] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved wrongly! 0.8558854476826241
+[01Jan2025 21:50:08.601] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved wrongly! 1.7594940758669964
+[01Jan2025 21:50:08.690] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved wrongly! 0.7899346439990609
+[01Jan2025 21:50:08.705] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved wrongly! 0.6958906724121903
+[01Jan2025 21:50:08.790] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved wrongly! 1.3158827279441994
+[01Jan2025 21:50:08.841] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved wrongly! 0.5397848269197425
+[01Jan2025 21:50:09.315] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved wrongly! 0.4752585337481605
+[01Jan2025 21:50:09.315] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved wrongly! 0.9621206827308697
+[01Jan2025 21:50:09.316] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved wrongly! 1.4530007378859295
+[01Jan2025 21:50:09.316] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved wrongly! 1.947424586285024
+[01Jan2025 21:50:09.346] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved wrongly! 2.4449740603253645
+[01Jan2025 21:50:09.391] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved wrongly! 2.94528033618127
+[01Jan2025 21:50:09.392] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved wrongly! 3.4480181112385253
+[01Jan2025 21:50:09.392] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved wrongly! 3.952900468591338
+[01Jan2025 21:50:09.410] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved wrongly! 4.459674347528846
+[01Jan2025 21:50:09.410] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved wrongly! 4.968116548504042
+[01Jan2025 21:50:09.416] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved wrongly! 5.478030209516476
+[01Jan2025 21:50:09.493] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved wrongly! 0.5041437809524609
+[01Jan2025 21:50:09.543] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved wrongly! 0.5052712292040269
+[01Jan2025 21:50:09.544] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved wrongly! 1.01860457557882
+[01Jan2025 21:50:09.552] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved wrongly! 0.5071599434420477
+[01Jan2025 21:50:09.616] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved wrongly! 1.016803813444028
+[01Jan2025 21:50:09.794] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved wrongly! 3.319780415648438
+[01Jan2025 21:50:09.794] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved wrongly! 3.319780415648438
+[01Jan2025 21:50:09.795] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved wrongly! 3.319780415648438
+[01Jan2025 21:50:09.795] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved wrongly! 3.319780415648438
+[01Jan2025 21:50:09.795] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved wrongly! 3.319780415648438
+[01Jan2025 21:50:09.841] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved wrongly! 1.7939308382296986
+[01Jan2025 21:50:20.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Teleported Thedoctor12 to Nuclator247]
+[01Jan2025 21:50:33.368] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -7.2740276478080546,0.03851986728376744,-7.877096804317944
+[01Jan2025 21:50:33.369] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -8.444327571727058,0.04256317016408673,-9.233684522964495
+[01Jan2025 21:50:33.369] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -9.606171322193916,0.0461293633045301,-10.599065777072383
+[01Jan2025 21:50:33.369] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -10.760556727675976,0.04927474565440093,-11.972202929457353
+[01Jan2025 21:50:33.370] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -11.908363872881466,0.04927474565440093,-13.352180784122538
+[01Jan2025 21:50:33.370] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -13.050368992523033,0.04927474565440093,-14.73819213819911
+[01Jan2025 21:50:33.370] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -14.187256725617146,0.04927474565440093,-16.129525038756356
+[01Jan2025 21:50:33.371] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -15.319630923776401,0.04927474565440093,-17.525551543309575
+[01Jan2025 21:50:33.371] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -16.4480241841232,0.04927474565440093,-18.925717806587272
+[01Jan2025 21:50:33.371] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -17.572906257319403,0.04927474565440093,-20.32953533705995
+[01Jan2025 21:50:33.371] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -18.69469146344869,0.04927474565440093,-21.736573285198574
+[01Jan2025 21:50:33.372] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -19.813745232825056,0.04927474565440093,-23.146451641718613
+[01Jan2025 21:50:33.441] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -14.83670251044066,0.015339121999119243,-18.028007540639464
+[01Jan2025 21:50:54.791] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved wrongly! 0.4172509105253539
+[01Jan2025 21:50:54.811] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved wrongly! 1.252672252927141
+[01Jan2025 21:50:54.892] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved wrongly! 2.056079191241224
+[01Jan2025 21:51:07.988] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AsesiAlex was kicked for floating too long!
+[01Jan2025 21:51:08.039] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AsesiAlex lost connection: Flying is not enabled on this server
+[01Jan2025 21:51:08.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AsesiAlex left the game
+[01Jan2025 21:51:08.040] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AsesiAlex
+[01Jan2025 21:51:17.843] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AsesiAlex[/127.188.245.206:34849] logged in with entity id 36497 at (-859.5626393308986, 49.04217996241046, 504.20833712311327)
+[01Jan2025 21:51:17.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AsesiAlex joined the game
+[01Jan2025 21:51:17.876] [Server thread/INFO] [Jade/]: Syncing config to AsesiAlex (ffaa1145-78a0-3eb9-821f-6475c3f13801)
+[01Jan2025 21:51:17.960] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AsesiAlex (18)
+[01Jan2025 21:51:17.960] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AsesiAlex
+[01Jan2025 21:51:26.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Teleported Thedoctor12 to AsesiAlex]
+[01Jan2025 21:52:33.790] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -8.197483763451942,0.21555698982319882,-6.253139403916862
+[01Jan2025 21:52:33.790] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -9.4749495387955,-0.12757938584709905,-7.227608123474965
+[01Jan2025 21:52:33.791] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -10.722567605331733,-0.5853801302195478,-8.179309069000169
+[01Jan2025 21:52:33.791] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -11.943859992699913,-1.1443148477872995,-9.110928837828283
+[01Jan2025 21:52:33.791] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -13.14193313104181,-1.7924497297133115,-10.024837008809527
+[01Jan2025 21:52:33.791] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -14.367901464013357,-2.3641046955720526,-10.960024539218239
+[01Jan2025 21:52:33.792] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -15.618473358648316,-2.8683043754594593,-11.913980464641895
+[01Jan2025 21:52:33.792] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -16.890745594670307,-3.313008493120151,-12.884490114468804
+[01Jan2025 21:52:33.792] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -18.182157531795724,-3.705237524896887,-13.869600149219309
+[01Jan2025 21:52:33.792] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -19.490450685294377,-4.051183530923964,-14.867587723472411
+[01Jan2025 21:52:33.793] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -20.812612751010533,-4.356307908239842,-15.878260007655513
+[01Jan2025 21:52:33.793] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -22.14666896000699,-4.625427609032457,-16.900555289176395
+[01Jan2025 21:52:33.843] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -16.604686800367972,-5.2914795974479745,-12.6806954452004
+[01Jan2025 21:52:33.892] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -17.957824004714098,-5.500834271567371,-13.723131431708111
+[01Jan2025 21:52:50.011] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! 4.35094997179749,-0.23653160521040206,-9.809548360800477
+[01Jan2025 21:52:50.011] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! 5.079196729150681,-0.26135954435125086,-11.449442728540532
+[01Jan2025 21:52:50.012] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! 5.808063478477379,-0.2832577866734738,-13.090334735459635
+[01Jan2025 21:52:50.012] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! 6.537477060724541,-0.30257203640168484,-14.732106660134605
+[01Jan2025 21:52:50.012] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! 7.249728821070676,-0.31960720466196335,-16.381582502995627
+[01Jan2025 21:52:50.012] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! 7.8973797557684975,-0.3346322230675298,-18.0484239705483
+[01Jan2025 21:52:50.013] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! 8.45019983245652,-0.34788428930123416,-19.73067446323944
+[01Jan2025 21:52:50.013] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! 8.911605144975965,-0.35957261171935784,-21.425696954706325
+[01Jan2025 21:52:50.013] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! 9.290176201825716,-0.3698817120921518,-23.131699217147002
+[01Jan2025 21:52:50.013] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! 9.593484115658384,-0.3789743386209494,-24.847077448909147
+[01Jan2025 21:52:50.013] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! 9.828754573190508,-0.3869940352193453,-26.570478285464333
+[01Jan2025 21:52:50.014] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! 10.00290679990485,-0.39406740761913284,-28.30078208955109
+[01Jan2025 21:52:50.014] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! 10.12152090277391,-0.40030612207574734,-30.036908936528278
+[01Jan2025 21:52:50.049] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! 6.565531542408735,-0.19742665387872194,-23.60700594596642
+[01Jan2025 21:52:50.806] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -1.9364853877968926,0.0,-10.081793332371035
+[01Jan2025 21:52:50.807] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -2.490974101371876,0.0,-11.708131934569963
+[01Jan2025 21:52:50.807] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -3.092721086105257,0.0,-13.323186868204175
+[01Jan2025 21:52:50.808] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -3.737566376638597,0.0,-14.92739812152871
+[01Jan2025 21:52:50.808] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -4.446301283486491,0.0,-16.50271482558867
+[01Jan2025 21:52:50.808] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -5.248136063469019,0.0,-18.010845463425085
+[01Jan2025 21:52:50.851] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -4.705002784164208,0.0,-11.003307884380035
+[01Jan2025 21:52:55.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -10.70613127710817,0.0,0.5018246874237775
+[01Jan2025 21:52:55.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -12.496288784768012,0.0,0.5091976415451427
+[01Jan2025 21:52:55.201] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -14.287611084150058,0.0,0.5012607477546567
+[01Jan2025 21:52:55.201] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -16.0799607298311,0.0,0.47982056810593576
+[01Jan2025 21:52:55.201] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -17.873216494947883,0.0,0.4464704903302277
+[01Jan2025 21:52:55.202] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -19.66727145740697,0.0,0.4026158824065078
+[01Jan2025 21:52:55.202] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -21.46203131192192,0.0,0.34949627889227486
+[01Jan2025 21:52:55.202] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -23.25751492978884,0.0,0.3154958524415292
+[01Jan2025 21:52:55.202] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -25.047465202477042,0.0,0.33794887536959095
+[01Jan2025 21:52:55.202] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -26.82668445411059,0.0,0.42937805603577317
+[01Jan2025 21:52:55.203] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -28.594694056943126,0.0,0.5863522349573032
+[01Jan2025 21:52:55.203] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -30.350104125760026,0.0,0.8078556840312672
+[01Jan2025 21:52:55.203] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -32.0798804108706,0.0,1.1144862010175984
+[01Jan2025 21:52:55.203] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -33.78222815673348,0.0,1.5037033962087207
+[01Jan2025 21:52:55.204] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -35.45944475939041,0.0,1.9671473869250349
+[01Jan2025 21:52:55.393] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -28.197201298755544,0.0,2.0189657822006666
+[01Jan2025 21:52:55.394] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -29.832378926049614,0.0,2.606091961880736
+[01Jan2025 21:52:55.443] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -31.449401450369805,0.0,3.2454696116260493
+[01Jan2025 21:52:55.444] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -33.048478760940725,0.0,3.933666289409075
+[01Jan2025 21:52:55.444] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -34.629424001514735,0.0,4.668065795685379
+[01Jan2025 21:52:55.444] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -36.19370254048226,0.0,5.444113784953856
+[01Jan2025 21:52:55.449] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -37.742614509881605,0.0,6.257773541629717
+[01Jan2025 21:52:55.506] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -39.277625753153416,0.0,7.105060664588109
+[01Jan2025 21:53:03.347] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -9.287004907552728,0.0,-5.47062589208582
+[01Jan2025 21:53:03.348] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -10.895386350210629,0.0,-6.252781553093769
+[01Jan2025 21:53:03.835] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -9.90890867641906,0.0,-3.943357210564102
+[01Jan2025 21:53:05.954] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! 8.488375374187399,0.0,-5.631781482566112
+[01Jan2025 21:53:05.954] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! 10.035374511462805,0.0,-6.334680155970375
+[01Jan2025 21:53:07.203] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -40.960125334247095,0.0,-5.759560297880739
+[01Jan2025 21:53:07.204] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -40.960125334247095,0.0,-5.759560297880739
+[01Jan2025 21:53:07.204] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -39.53340303103096,0.0,-4.890264916986041
+[01Jan2025 21:53:07.309] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -38.135052598996936,0.0,-3.9631440124092023
+[01Jan2025 21:53:07.310] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -36.76172615734572,0.0,-2.9850209959446943
+[01Jan2025 21:53:07.368] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -35.41047087521201,0.0,-1.961914116795299
+[01Jan2025 21:53:07.454] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -34.0786823557728,0.0,-0.8991314707577658
+[01Jan2025 21:53:07.455] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -32.76406352103004,0.0,0.19864520167504907
+[01Jan2025 21:53:07.544] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -31.464588348189636,0.0,1.3272866053885082
+[01Jan2025 21:53:07.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -30.178469885147024,0.0,2.483150702091507
+[01Jan2025 21:53:07.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -28.904132040146123,0.0,3.6630252140112702
+[01Jan2025 21:53:07.693] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -27.640184700258033,0.0,4.864076912152257
+[01Jan2025 21:53:07.702] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -26.385401785879367,0.0,6.083806888540323
+[01Jan2025 21:53:07.789] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -25.13870189480008,0.0,7.320011106342292
+[01Jan2025 21:53:07.842] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -23.89913123027077,0.0,8.570745605071352
+[01Jan2025 21:53:07.856] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -22.665848543558695,0.0,9.834295811578158
+[01Jan2025 21:53:07.943] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -21.43811185328127,0.0,11.109149472344882
+[01Jan2025 21:53:08.001] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -20.215266731859174,0.0,12.39397277976883
+[01Jan2025 21:53:08.003] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -18.996735974167677,0.0,13.687589315544471
+[01Jan2025 21:53:08.154] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -17.78201048528649,0.0,14.98896147872631
+[01Jan2025 21:53:08.154] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -16.570641243495857,0.0,16.29717410528042
+[01Jan2025 21:53:27.627] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! 10.73581173578225,0.0,0.5106483453301962
+[01Jan2025 21:53:27.627] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! 12.523389097385461,0.0,0.5196913380409001
+[01Jan2025 21:53:27.628] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! 14.310121088778601,0.0,0.4932228140817756
+[01Jan2025 21:53:27.628] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! 16.096107463646376,0.0,0.43543313241991655
+[01Jan2025 21:53:27.792] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -10.718909008288392,0.0,0.22110509544046408
+[01Jan2025 21:53:27.792] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -10.718909008288392,0.0,0.22110509544046408
+[01Jan2025 21:53:27.792] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -10.718909008288392,0.0,0.22110509544046408
+[01Jan2025 21:53:27.792] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -10.718909008288392,0.0,0.22110509544046408
+[01Jan2025 21:53:27.849] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -10.719360229871882,0.0,0.2021506035554239
+[01Jan2025 21:53:41.432] [Server thread/WARN] [tombstone/]: The death event of the player AsesiAlex was canceled by another mod
+[01Jan2025 21:53:41.437] [Server thread/INFO] [tombstone/]: The player AsesiAlex has successfully been saved
+[01Jan2025 21:53:43.577] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -7.062843989175349,2.687922351458127,-8.072495523208772
+[01Jan2025 21:53:43.577] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -8.049805885572141,3.456828741204845,-8.769637624166705
+[01Jan2025 21:53:43.578] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -9.0718278137183,4.290158637992704,-9.397199419987771
+[01Jan2025 21:53:43.578] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -10.125283270305772,5.180310067990845,-9.94828912074388
+[01Jan2025 21:53:43.578] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -11.206042015350931,6.1205780902804605,-10.422786684687537
+[01Jan2025 21:53:43.578] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -12.310527708437462,7.105048946971152,-10.82576619853478
+[01Jan2025 21:53:43.578] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -13.435813824086608,8.128506703603591,-11.164478158996872
+[01Jan2025 21:53:43.579] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -14.57940049790227,9.186350905984654,-11.446100495910514
+[01Jan2025 21:53:43.579] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -15.739128264020906,10.27452395351601,-11.677369784854477
+[01Jan2025 21:53:43.625] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -10.799192274197026,9.397388555768543,-4.553875731122787
+[01Jan2025 21:53:43.682] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -11.985668201374892,10.53590518125715,-4.701171748513502
+[01Jan2025 21:53:44.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AsesiAlex was burnt to a crisp whilst fighting Nuclator247
+[01Jan2025 21:53:44.572] [Server thread/INFO] [tombstone/]: The player AsesiAlex has successfully been saved
+[01Jan2025 21:53:44.573] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -9.982883700690422,1.4813288857353086,0.9230036057415987
+[01Jan2025 21:53:44.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -11.692769742762607,1.636819072300014,1.1081726206808185
+[01Jan2025 21:53:44.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -13.41020852744714,1.773961416850085,1.31033931751017
+[01Jan2025 21:54:10.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nuclator247> esta era la advertencia
+[01Jan2025 21:54:18.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Teleported AsesiAlex to Thedoctor12]
+[01Jan2025 21:54:32.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AsesiAlex> cual?
+[01Jan2025 21:54:34.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nuclator247> si usas x ray te matamos y te baneamos y te quitamos tu tumba
+[01Jan2025 21:54:41.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AsesiAlex> ha vale
+[01Jan2025 21:54:46.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AsesiAlex> ya te vi montado
+[01Jan2025 21:54:58.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thedoctor12> usa la llave para ir a tu tumba
+[01Jan2025 21:55:12.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AsesiAlex> no la tengo
+[01Jan2025 21:55:24.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AsesiAlex> me puso que hubo un error
+[01Jan2025 21:55:40.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AsesiAlex> cuando mori en la cueva de abajo de la aldea
+[01Jan2025 21:56:12.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AsesiAlex> gracias
+[01Jan2025 21:56:23.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nuclator247> shhhh
+[01Jan2025 21:58:26.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nuclator247> te protejo
+[01Jan2025 21:58:32.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AsesiAlex> no hace falta
+[01Jan2025 21:58:49.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Teleported AsesiAlex to Thedoctor12]
+[01Jan2025 21:58:56.020] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -8.168127103111146,0.0,7.208306701881355
+[01Jan2025 21:59:02.874] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -8.16191028781418,0.0,7.238022908462256
+[01Jan2025 21:59:06.800] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -8.142653890537304,0.0,7.259677991653803
+[01Jan2025 21:59:06.802] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -9.499750312935248,0.0,8.469638447418731
+[01Jan2025 21:59:06.802] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -10.856844214082912,0.0,9.67960173849491
+[01Jan2025 21:59:06.802] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -12.213935891488063,0.0,10.889567530315617
+[01Jan2025 21:59:06.803] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -13.571025607552201,0.0,12.099535527792966
+[01Jan2025 21:59:06.803] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -14.928113593713533,0.0,13.309505470659474
+[01Jan2025 21:59:06.803] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -16.285200054100642,0.0,14.519477129359245
+[01Jan2025 21:59:06.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -17.642285168754825,0.0,15.729450301423924
+[01Jan2025 21:59:06.849] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Smaug (vehicle of Nuclator247) moved too quickly! -12.213814486893625,0.0,10.889704057749043
+[01Jan2025 21:59:53.245] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nuclator247 moved wrongly!
+[01Jan2025 21:59:53.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nuclator247 moved wrongly!
+[01Jan2025 22:00:17.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Teleported AsesiAlex to Thedoctor12]
+[01Jan2025 22:01:00.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AsesiAlex> me tengo que ir a la cama, adios
+[01Jan2025 22:01:09.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thedoctor12> adios
+[01Jan2025 22:01:10.742] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AsesiAlex lost connection: Disconnected
+[01Jan2025 22:01:10.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AsesiAlex left the game
+[01Jan2025 22:01:10.742] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AsesiAlex
+[01Jan2025 22:01:27.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Teleported Thedoctor12 to Nuclator247]
+[01Jan2025 22:02:18.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Set own game mode to Creative Mode]
+[01Jan2025 22:05:28.587] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nuclator247 lost connection: Disconnected
+[01Jan2025 22:05:28.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 left the game
+[01Jan2025 22:05:28.589] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Nuclator247
+[01Jan2025 22:05:37.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Set own game mode to Survival Mode]
+[01Jan2025 22:05:58.186] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Thedoctor12 lost connection: Disconnected
+[01Jan2025 22:05:58.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 left the game
+[01Jan2025 22:05:58.186] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Thedoctor12
+[01Jan2025 22:06:10.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[01Jan2025 22:06:10.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[01Jan2025 22:06:10.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[01Jan2025 22:06:10.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01Jan2025 22:06:10.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01Jan2025 22:06:10.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01Jan2025 22:06:10.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01Jan2025 22:06:10.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01Jan2025 22:06:10.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01Jan2025 22:06:10.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01Jan2025 22:06:11.027] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
