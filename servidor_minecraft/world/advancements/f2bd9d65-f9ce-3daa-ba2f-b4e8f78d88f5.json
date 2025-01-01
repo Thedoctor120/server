@@ -2650,5 +2650,11 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonarmor": {
+    "criteria": {
+      "iron": "2025-01-01 21:10:51 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
