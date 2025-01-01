@@ -306,3 +306,45 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jan2025 20:56:41.144] [Server thread/INFO] [Jade/]: Syncing config to Nuclator247 (f2bd9d65-f9ce-3daa-ba2f-b4e8f78d88f5)
 [01Jan2025 20:56:41.612] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Nuclator247 (18)
 [01Jan2025 20:56:41.614] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nuclator247
+[01Jan2025 20:57:49.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Set own game mode to Creative Mode]
+[01Jan2025 20:58:47.129] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/8178, l='ServerLevel[world]', x=-873.58, y=-256.00, z=887.01] died, message: 'Unemployed was killed'
+[01Jan2025 20:58:50.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Set own game mode to Survival Mode]
+[01Jan2025 20:58:57.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 has made the advancement [Dragon Growth Hormone]
+[01Jan2025 21:01:25.148] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AsesiAlex[/127.188.245.206:53981] logged in with entity id 9424 at (-930.5, 71.0, 539.5)
+[01Jan2025 21:01:25.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AsesiAlex joined the game
+[01Jan2025 21:01:25.190] [Server thread/INFO] [Jade/]: Syncing config to AsesiAlex (ffaa1145-78a0-3eb9-821f-6475c3f13801)
+[01Jan2025 21:01:25.910] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AsesiAlex (18)
+[01Jan2025 21:01:25.911] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AsesiAlex
+[01Jan2025 21:01:39.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thedoctor12> hola
+[01Jan2025 21:01:44.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AsesiAlex> hola
+[01Jan2025 21:01:51.389] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-918, y=71, z=543}
+[01Jan2025 21:01:51.437] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-918, y=72, z=543}
+[01Jan2025 21:01:51.491] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-918, y=71, z=543}
+[01Jan2025 21:01:51.540] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-918, y=72, z=543}
+[01Jan2025 21:01:51.590] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-918, y=71, z=543}
+[01Jan2025 21:01:53.039] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-918, y=72, z=543}
+[01Jan2025 21:02:40.259] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nuclator247 moved too quickly! -0.22394354965115326,-4.0,9.368897657080538
+[01Jan2025 21:02:56.889] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nuclator247 lost connection: Timed out
+[01Jan2025 21:02:56.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 left the game
+[01Jan2025 21:02:56.890] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Nuclator247
+[01Jan2025 21:03:16.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AsesiAlex has made the advancement [Stone Age]
+[01Jan2025 21:03:23.304] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nuclator247[/127.226.225.179:58611] logged in with entity id 10483 at (-871.6606579191603, 33.0, 898.5828807010546)
+[01Jan2025 21:03:23.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 joined the game
+[01Jan2025 21:03:23.384] [Server thread/INFO] [Jade/]: Syncing config to Nuclator247 (f2bd9d65-f9ce-3daa-ba2f-b4e8f78d88f5)
+[01Jan2025 21:03:24.970] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Nuclator247 (18)
+[01Jan2025 21:03:24.972] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nuclator247
+[01Jan2025 21:04:03.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AsesiAlex has made the advancement [Getting an Upgrade]
+[01Jan2025 21:04:21.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AsesiAlex has made the advancement [Monster Hunter]
+[01Jan2025 21:04:24.303] [Server thread/WARN] [tombstone/]: The death event of the player AsesiAlex was canceled by another mod
+[01Jan2025 21:04:24.311] [Server thread/INFO] [tombstone/]: The player AsesiAlex has successfully been saved
+[01Jan2025 21:04:27.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Teleported AsesiAlex to Thedoctor12]
+[01Jan2025 21:04:38.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AsesiAlex was slain by Nuclator247
+[01Jan2025 21:04:38.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AsesiAlex has made the advancement [Your First Grave]
+[01Jan2025 21:04:38.806] [Server thread/INFO] [tombstone/]: The player AsesiAlex has successfully been saved
+[01Jan2025 21:05:06.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Set spawn point to -879, -59, 889 [0.0] in minecraft:overworld for Thedoctor12]
+[01Jan2025 21:05:22.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Set own game mode to Spectator Mode]
+[01Jan2025 21:06:24.922] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-305, y=53, z=1146} but found not block entity block Block{minecraft:water}[level=8] at location
+[01Jan2025 21:06:24.923] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=-305, y=53, z=1146}
+[01Jan2025 21:06:35.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AsesiAlex has reached the goal [Here They Come]
+[01Jan2025 21:06:36.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Set spawn point to -488, 104, 1316 [0.0] in minecraft:overworld for Thedoctor12]
+[01Jan2025 21:07:04.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Set own game mode to Creative Mode]

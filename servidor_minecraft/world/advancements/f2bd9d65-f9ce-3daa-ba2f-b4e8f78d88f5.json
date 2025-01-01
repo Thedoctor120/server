@@ -2602,21 +2602,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone_from_smelting_deepslate_redstone_ore": {
+  "iceandfire:iceandfire/dragon_egg": {
     "criteria": {
-      "has_deepslate_redstone_ore": "2025-01-01 20:54:56 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragon_flute": {
-    "criteria": {
-      "bestiary": "2025-01-01 20:49:44 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragon_horn": {
-    "criteria": {
-      "bestiary": "2025-01-01 20:49:36 +0000"
+      "egg": "2025-01-01 20:39:48 +0000"
     },
     "done": true
   },
@@ -2626,9 +2614,27 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragon_egg": {
+  "iceandfire:iceandfire/dragon_horn": {
     "criteria": {
-      "egg": "2025-01-01 20:39:48 +0000"
+      "bestiary": "2025-01-01 20:49:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_staff": {
+    "criteria": {
+      "bestiary": "2025-01-01 20:49:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_flute": {
+    "criteria": {
+      "bestiary": "2025-01-01 20:49:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2025-01-01 20:54:56 +0000"
     },
     "done": true
   },
@@ -2638,9 +2644,9 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragon_staff": {
+  "iceandfire:iceandfire/dragon_meal": {
     "criteria": {
-      "bestiary": "2025-01-01 20:49:43 +0000"
+      "bestiary": "2025-01-01 20:58:57 +0000"
     },
     "done": true
   },
