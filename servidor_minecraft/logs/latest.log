@@ -270,3 +270,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jan2025 20:17:52.937] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nuclator247
 [01Jan2025 20:19:47.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Applied enchantment Mending to Thedoctor12's item]
 [01Jan2025 20:20:01.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Applied enchantment Unbreaking III to Thedoctor12's item]
+[01Jan2025 20:34:36.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 has made the advancement [Cover Me with Diamonds]
+[01Jan2025 20:34:59.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Set own game mode to Creative Mode]
+[01Jan2025 20:35:22.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 has made the advancement [Mother of Dragons]
+[01Jan2025 20:35:31.457] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nuclator247 moved too quickly! 1.8287438992375655,0.796735600668697,10.077640485402867
+[01Jan2025 20:35:35.487] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nuclator247 was kicked for floating too long!
+[01Jan2025 20:35:35.488] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nuclator247 lost connection: Flying is not enabled on this server
+[01Jan2025 20:35:35.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 left the game
+[01Jan2025 20:35:35.495] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Nuclator247
+[01Jan2025 20:35:35.539] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Jan2025 20:36:03.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Set own game mode to Survival Mode]
+[01Jan2025 20:36:26.438] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2a8d419c[id=<null>,name=Nuclator247,properties={},legacy=false] (/127.226.225.179:60251) lost connection: Disconnected
