@@ -281,3 +281,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jan2025 20:35:35.539] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [01Jan2025 20:36:03.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Set own game mode to Survival Mode]
 [01Jan2025 20:36:26.438] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2a8d419c[id=<null>,name=Nuclator247,properties={},legacy=false] (/127.226.225.179:60251) lost connection: Disconnected
+[01Jan2025 20:38:08.292] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nuclator247[/127.226.225.179:33137] logged in with entity id 4457 at (-870.87254446063, 36.024424088213685, 879.3031326881627)
+[01Jan2025 20:38:08.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 joined the game
+[01Jan2025 20:38:08.385] [Server thread/INFO] [Jade/]: Syncing config to Nuclator247 (f2bd9d65-f9ce-3daa-ba2f-b4e8f78d88f5)
+[01Jan2025 20:38:08.556] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Nuclator247 (18)
+[01Jan2025 20:38:08.557] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nuclator247
+[01Jan2025 20:39:48.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 has made the advancement [Mother of Dragons]
+[01Jan2025 20:41:20.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 has made the advancement [Dragon Commander]
+[01Jan2025 20:43:49.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Set own game mode to Creative Mode]
+[01Jan2025 20:44:17.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 has made the advancement [An Ear-Shattering Roar]
+[01Jan2025 20:45:08.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 has made the advancement [Dragon Growth Hormone]
+[01Jan2025 20:45:20.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Set own game mode to Survival Mode]
+[01Jan2025 20:46:23.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 has made the advancement [Best Friends Forever]
