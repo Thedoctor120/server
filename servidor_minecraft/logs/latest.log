@@ -293,3 +293,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jan2025 20:45:08.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thedoctor12 has made the advancement [Dragon Growth Hormone]
 [01Jan2025 20:45:20.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Set own game mode to Survival Mode]
 [01Jan2025 20:46:23.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 has made the advancement [Best Friends Forever]
+[01Jan2025 20:49:36.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 has made the advancement [An Ear-Shattering Roar]
+[01Jan2025 20:49:43.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 has made the advancement [Dragon Commander]
+[01Jan2025 20:49:44.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 has made the advancement [The Song of the Dragons]
+[01Jan2025 20:53:04.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thedoctor12: Teleported Nuclator247 to Thedoctor12]
+[01Jan2025 20:55:10.018] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nuclator247 moved too quickly! -4.865494047263155,-0.796735600668697,-8.83403357787597
+[01Jan2025 20:56:10.287] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nuclator247 lost connection: Timed out
+[01Jan2025 20:56:10.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 left the game
+[01Jan2025 20:56:10.288] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Nuclator247
+[01Jan2025 20:56:41.053] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nuclator247[/127.226.225.179:44421] logged in with entity id 7906 at (-867.3055206212207, -59.0, 879.701749465466)
+[01Jan2025 20:56:41.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nuclator247 joined the game
+[01Jan2025 20:56:41.144] [Server thread/INFO] [Jade/]: Syncing config to Nuclator247 (f2bd9d65-f9ce-3daa-ba2f-b4e8f78d88f5)
+[01Jan2025 20:56:41.612] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Nuclator247 (18)
+[01Jan2025 20:56:41.614] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Nuclator247
